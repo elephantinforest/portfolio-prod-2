@@ -1,0 +1,1885 @@
+# Query: page
+# ContextLines: 1
+
+530 results - 112 files
+
+Application.php:
+  46          } catch (HttpNotFoundException) {
+  47:             $this->httpNotFoundException->render404Page($this->response);
+  48          }
+
+composer.lock:
+    69                      "email": "hello@gjcampbell.co.uk",
+    70:                     "homepage": "https://github.com/GrahamCampbell"
+    71                  },
+
+    74                      "email": "mtdowling@gmail.com",
+    75:                     "homepage": "https://github.com/mtdowling"
+    76                  },
+
+    79                      "email": "jeremeamia@gmail.com",
+    80:                     "homepage": "https://github.com/jeremeamia"
+    81                  },
+
+    84                      "email": "gmponos@gmail.com",
+    85:                     "homepage": "https://github.com/gmponos"
+    86                  },
+
+    89                      "email": "tobias.nyholm@gmail.com",
+    90:                     "homepage": "https://github.com/Nyholm"
+    91                  },
+
+    94                      "email": "mark.sagikazar@gmail.com",
+    95:                     "homepage": "https://github.com/sagikazarmark"
+    96                  },
+
+    99                      "email": "webmaster@tubo-world.de",
+   100:                     "homepage": "https://github.com/Tobion"
+   101                  }
+
+   175                      "email": "hello@gjcampbell.co.uk",
+   176:                     "homepage": "https://github.com/GrahamCampbell"
+   177                  },
+
+   180                      "email": "mtdowling@gmail.com",
+   181:                     "homepage": "https://github.com/mtdowling"
+   182                  },
+
+   185                      "email": "tobias.nyholm@gmail.com",
+   186:                     "homepage": "https://github.com/Nyholm"
+   187                  },
+
+   190                      "email": "webmaster@tubo-world.de",
+   191:                     "homepage": "https://github.com/Tobion"
+   192                  }
+
+   269                      "email": "hello@gjcampbell.co.uk",
+   270:                     "homepage": "https://github.com/GrahamCampbell"
+   271                  },
+
+   274                      "email": "mtdowling@gmail.com",
+   275:                     "homepage": "https://github.com/mtdowling"
+   276                  },
+
+   279                      "email": "gmponos@gmail.com",
+   280:                     "homepage": "https://github.com/gmponos"
+   281                  },
+
+   284                      "email": "tobias.nyholm@gmail.com",
+   285:                     "homepage": "https://github.com/Nyholm"
+   286                  },
+
+   289                      "email": "mark.sagikazar@gmail.com",
+   290:                     "homepage": "https://github.com/sagikazarmark"
+   291                  },
+
+   294                      "email": "webmaster@tubo-world.de",
+   295:                     "homepage": "https://github.com/Tobion"
+   296                  },
+
+   299                      "email": "mark.sagikazar@gmail.com",
+   300:                     "homepage": "https://sagikazarmark.hu"
+   301                  }
+
+   369                      "name": "PHP-FIG",
+   370:                     "homepage": "https://www.php-fig.org/"
+   371                  }
+
+   373              "description": "Common interface for HTTP clients",
+   374:             "homepage": "https://github.com/php-fig/http-client",
+   375              "keywords": [
+
+   421                      "name": "PHP-FIG",
+   422:                     "homepage": "https://www.php-fig.org/"
+   423                  }
+
+   475                      "name": "PHP-FIG",
+   476:                     "homepage": "https://www.php-fig.org/"
+   477                  }
+
+   479              "description": "Common interface for HTTP messages",
+   480:             "homepage": "https://github.com/php-fig/http-message",
+   481              "keywords": [
+
+   580                      "name": "Symfony Community",
+   581:                     "homepage": "https://symfony.com/contributors"
+   582                  }
+
+   584              "description": "A generic function and convention to trigger deprecation notices",
+   585:             "homepage": "https://symfony.com",
+   586              "support": {
+
+   647                      "email": "j.boggiano@seld.be",
+   648:                     "homepage": "http://seld.be"
+   649                  }
+
+   717                      "email": "naderman@naderman.de",
+   718:                     "homepage": "http://www.naderman.de"
+   719                  },
+
+   722                      "email": "j.boggiano@seld.be",
+   723:                     "homepage": "http://seld.be"
+   724                  },
+
+   727                      "email": "rob.bast@gmail.com",
+   728:                     "homepage": "http://robbast.nl"
+   729                  }
+
+   865                      "email": "ocramius@gmail.com",
+   866:                     "homepage": "https://ocramius.github.io/"
+   867                  }
+
+   869              "description": "A small, lightweight utility to instantiate objects in PHP without invoking their constructors",
+   870:             "homepage": "https://www.doctrine-project.org/projects/instantiator.html",
+   871              "keywords": [
+
+  1401              "description": "Finds and installs PSR-7, PSR-17, PSR-18 and HTTPlug implementations",
+  1402:             "homepage": "http://php-http.org",
+  1403              "keywords": [
+
+  1463                      "email": "github@manuel-pichler.de",
+  1464:                     "homepage": "https://github.com/manuelpichler",
+  1465                      "role": "Project Founder"
+
+  1469                      "email": "ravage@bluewin.ch",
+  1470:                     "homepage": "https://github.com/ravage84",
+  1471                      "role": "Project Maintainer"
+
+  1474                      "name": "Other contributors",
+  1475:                     "homepage": "https://github.com/phpmd/phpmd/graphs/contributors",
+  1476                      "role": "Contributors"
+
+  1479              "description": "PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.",
+  1480:             "homepage": "https://phpmd.org/",
+  1481              "keywords": [
+
+  1620              "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+  1621:             "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
+  1622              "keywords": [
+
+  1682              "description": "FilterIterator implementation that filters files based on a list of suffixes.",
+  1683:             "homepage": "https://github.com/sebastianbergmann/php-file-iterator/",
+  1684              "keywords": [
+
+  1746              "description": "Invoke callables with a timeout",
+  1747:             "homepage": "https://github.com/sebastianbergmann/php-invoker/",
+  1748              "keywords": [
+
+  1805              "description": "Simple template engine.",
+  1806:             "homepage": "https://github.com/sebastianbergmann/php-text-template/",
+  1807              "keywords": [
+
+  1864              "description": "Utility class for timing",
+  1865:             "homepage": "https://github.com/sebastianbergmann/php-timer/",
+  1866              "keywords": [
+
+  1956              "description": "The PHP Unit Testing framework.",
+  1957:             "homepage": "https://phpunit.de/",
+  1958              "keywords": [
+
+  2013                      "name": "PHP-FIG",
+  2014:                     "homepage": "https://www.php-fig.org/"
+  2015                  }
+
+  2017              "description": "Common Container Interface (PHP FIG PSR-11)",
+  2018:             "homepage": "https://github.com/php-fig/container",
+  2019              "keywords": [
+
+  2066                      "name": "PHP-FIG",
+  2067:                     "homepage": "http://www.php-fig.org/"
+  2068                  }
+
+  2116                      "name": "PHP-FIG",
+  2117:                     "homepage": "https://www.php-fig.org/"
+  2118                  }
+
+  2120              "description": "Common interface for logging libraries",
+  2121:             "homepage": "https://github.com/php-fig/log",
+  2122              "keywords": [
+
+  2174              "description": "Library for parsing CLI options",
+  2175:             "homepage": "https://github.com/sebastianbergmann/cli-parser",
+  2176              "support": {
+
+  2230              "description": "Collection of value objects that represent the PHP code units",
+  2231:             "homepage": "https://github.com/sebastianbergmann/code-unit",
+  2232              "support": {
+
+  2285              "description": "Looks up which function or method a line of code belongs to",
+  2286:             "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+  2287              "support": {
+
+  2354              "description": "Provides the functionality to compare PHP values for equality",
+  2355:             "homepage": "https://github.com/sebastianbergmann/comparator",
+  2356              "keywords": [
+
+  2416              "description": "Library for calculating the complexity of PHP code units",
+  2417:             "homepage": "https://github.com/sebastianbergmann/complexity",
+  2418              "support": {
+
+  2476              "description": "Diff implementation",
+  2477:             "homepage": "https://github.com/sebastianbergmann/diff",
+  2478              "keywords": [
+
+  2540              "description": "Provides functionality to handle HHVM/PHP environments",
+  2541:             "homepage": "http://www.github.com/sebastianbergmann/environment",
+  2542              "keywords": [
+
+  2618              "description": "Provides the functionality to export PHP variables for visualization",
+  2619:             "homepage": "https://www.github.com/sebastianbergmann/exporter",
+  2620              "keywords": [
+
+  2683              "description": "Snapshotting of global state",
+  2684:             "homepage": "http://www.github.com/sebastianbergmann/global-state",
+  2685              "keywords": [
+
+  2743              "description": "Library for counting the lines of code in PHP source code",
+  2744:             "homepage": "https://github.com/sebastianbergmann/lines-of-code",
+  2745              "support": {
+
+  2800              "description": "Traverses array structures and object graphs to enumerate all referenced objects",
+  2801:             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+  2802              "support": {
+
+  2855              "description": "Allows reflection of object attributes, including inherited and non-public ones",
+  2856:             "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+  2857              "support": {
+
+  2918              "description": "Provides functionality to recursively process PHP variables",
+  2919:             "homepage": "https://github.com/sebastianbergmann/recursion-context",
+  2920              "support": {
+
+  2973              "description": "Provides a list of PHP built-in functions that operate on resources",
+  2974:             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+  2975              "support": {
+
+  3029              "description": "Collection of value objects that represent the types of the PHP type system",
+  3030:             "homepage": "https://github.com/sebastianbergmann/type",
+  3031              "support": {
+
+  3082              "description": "Library that helps with managing the version number of Git-hosted PHP projects",
+  3083:             "homepage": "https://github.com/sebastianbergmann/version",
+  3084              "support": {
+
+  3143                      "name": "Contributors",
+  3144:                     "homepage": "https://github.com/PHPCSStandards/PHP_CodeSniffer/graphs/contributors"
+  3145                  }
+
+  3147              "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+  3148:             "homepage": "https://github.com/PHPCSStandards/PHP_CodeSniffer",
+  3149              "keywords": [
+
+  3229                      "name": "Symfony Community",
+  3230:                     "homepage": "https://symfony.com/contributors"
+  3231                  }
+
+  3233              "description": "Helps you find, load, combine, autofill and validate configuration values of any kind",
+  3234:             "homepage": "https://symfony.com",
+  3235              "support": {
+
+  3322                      "name": "Symfony Community",
+  3323:                     "homepage": "https://symfony.com/contributors"
+  3324                  }
+
+  3326              "description": "Eases the creation of beautiful and testable command line interfaces",
+  3327:             "homepage": "https://symfony.com",
+  3328              "keywords": [
+
+  3414                      "name": "Symfony Community",
+  3415:                     "homepage": "https://symfony.com/contributors"
+  3416                  }
+
+  3418              "description": "Allows you to standardize and centralize the way objects are constructed in your application",
+  3419:             "homepage": "https://symfony.com",
+  3420              "support": {
+
+  3499                      "name": "Symfony Community",
+  3500:                     "homepage": "https://symfony.com/contributors"
+  3501                  }
+
+  3503              "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
+  3504:             "homepage": "https://symfony.com",
+  3505              "support": {
+
+  3567                      "name": "Symfony Community",
+  3568:                     "homepage": "https://symfony.com/contributors"
+  3569                  }
+
+  3571              "description": "Generic abstractions related to dispatching event",
+  3572:             "homepage": "https://symfony.com",
+  3573              "keywords": [
+
+  3639                      "name": "Symfony Community",
+  3640:                     "homepage": "https://symfony.com/contributors"
+  3641                  }
+
+  3643              "description": "Provides basic utilities for the filesystem",
+  3644:             "homepage": "https://symfony.com",
+  3645              "support": {
+
+  3703                      "name": "Symfony Community",
+  3704:                     "homepage": "https://symfony.com/contributors"
+  3705                  }
+
+  3707              "description": "Finds files and directories via an intuitive fluent interface",
+  3708:             "homepage": "https://symfony.com",
+  3709              "support": {
+
+  3765                      "name": "Symfony Community",
+  3766:                     "homepage": "https://symfony.com/contributors"
+  3767                  }
+
+  3769              "description": "Provides an improved replacement for the array_replace PHP function",
+  3770:             "homepage": "https://symfony.com",
+  3771              "keywords": [
+
+  3843                      "name": "Symfony Community",
+  3844:                     "homepage": "https://symfony.com/contributors"
+  3845                  }
+
+  3847              "description": "Symfony polyfill for ctype functions",
+  3848:             "homepage": "https://symfony.com",
+  3849              "keywords": [
+
+  3919                      "name": "Symfony Community",
+  3920:                     "homepage": "https://symfony.com/contributors"
+  3921                  }
+
+  3923              "description": "Symfony polyfill for intl's grapheme_* functions",
+  3924:             "homepage": "https://symfony.com",
+  3925              "keywords": [
+
+  4000                      "name": "Symfony Community",
+  4001:                     "homepage": "https://symfony.com/contributors"
+  4002                  }
+
+  4004              "description": "Symfony polyfill for intl's Normalizer class and related functions",
+  4005:             "homepage": "https://symfony.com",
+  4006              "keywords": [
+
+  4081                      "name": "Symfony Community",
+  4082:                     "homepage": "https://symfony.com/contributors"
+  4083                  }
+
+  4085              "description": "Symfony polyfill for the Mbstring extension",
+  4086:             "homepage": "https://symfony.com",
+  4087              "keywords": [
+
+  4158                      "name": "Symfony Community",
+  4159:                     "homepage": "https://symfony.com/contributors"
+  4160                  }
+
+  4162              "description": "Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions",
+  4163:             "homepage": "https://symfony.com",
+  4164              "keywords": [
+
+  4238                      "name": "Symfony Community",
+  4239:                     "homepage": "https://symfony.com/contributors"
+  4240                  }
+
+  4242              "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
+  4243:             "homepage": "https://symfony.com",
+  4244              "keywords": [
+
+  4314                      "name": "Symfony Community",
+  4315:                     "homepage": "https://symfony.com/contributors"
+  4316                  }
+
+  4318              "description": "Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions",
+  4319:             "homepage": "https://symfony.com",
+  4320              "keywords": [
+
+  4381                      "name": "Symfony Community",
+  4382:                     "homepage": "https://symfony.com/contributors"
+  4383                  }
+
+  4385              "description": "Executes commands in sub-processes",
+  4386:             "homepage": "https://symfony.com",
+  4387              "support": {
+
+  4456                      "name": "Symfony Community",
+  4457:                     "homepage": "https://symfony.com/contributors"
+  4458                  }
+
+  4460              "description": "Generic abstractions related to writing services",
+  4461:             "homepage": "https://symfony.com",
+  4462              "keywords": [
+
+  4526                      "name": "Symfony Community",
+  4527:                     "homepage": "https://symfony.com/contributors"
+  4528                  }
+
+  4530              "description": "Provides a way to profile code",
+  4531:             "homepage": "https://symfony.com",
+  4532              "support": {
+
+  4604                      "name": "Symfony Community",
+  4605:                     "homepage": "https://symfony.com/contributors"
+  4606                  }
+
+  4608              "description": "Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way",
+  4609:             "homepage": "https://symfony.com",
+  4610              "keywords": [
+
+controller/PagenationController.php:
+   2  
+   3: class PagenationController extends Controller
+   4  {
+
+  24      $registerModel = $this->databaseManager->get('Register');
+  25:     $registersName = $registerModel->fetchPagenation($userId, $locationName);
+  26      $registersName =  json_encode($registersName, JSON_UNESCAPED_UNICODE);
+
+core/HttpNotFoundException.php:
+   6  {
+   7:     public function render404Page(Response $response): Response
+   8      {
+
+  22          <h1>
+  23:             404 Page Not Found.
+  24          </h1>
+
+core/Router.php:
+  51              '/delete' => ['controller' => 'Delete', 'action' => 'delete'],
+  52:             '/pagenation' => ['controller' => 'Pagenation', 'action' => 'index'],
+  53          ];
+
+javascript/pagenation.js:
+   3      $.ajax({
+   4:         url: '/pagenation',
+   5          type: 'POST',
+
+  14                  var registers = JSON.parse(data.registersName)
+  15:                 pagenation(registers)
+  16              }
+
+  30      })
+  31:     function pagenation(registersName) {
+  32          var registerName = registersName
+  33:         $('#registers-all-pager').pagination({
+  34:             // diary-all-pagerにページャーを埋め込む
+  35              dataSource: registerName,
+  36:             pageSize: 10, // 1ページあたりの表示数
+  37:             showPageNumbers: false,
+  38              showNavigator: true,
+
+javascript/register.js:
+   15                  $('#buttn').hide()
+   16:                 $('.pager').hide()
+   17                  showLoadingAnimation()
+
+   34                      $('#buttn').show()
+   35:                     $('.pager').show()
+   36                      sendAlert(data.errors)
+
+  126                                  $('#buttn').show()
+  127:                                 $('.pager').show()
+  128                                  fetchRegistersName()
+
+models/Register.php:
+  39      }
+  40:     public function fetchPagenation($user_id, $locationName)
+  41      {
+
+src/views/header.php:
+  119                               <p id="prevBtn" class="text-cyan-500 bg-yellow-400 hover:bg-cyan-500 hover:text-yellow-400 inline-flex items-center rounded-md py-2 px-3 text-sm font-mediu cursor-pointer">前ののロケーション</p>
+  120:                              <a href=" #" class="bg-gray-900 text-white inline-flex items-center rounded-md py-2 px-3 text-sm font-medium" aria-current="page"><?php echo $user['name']; ?>の<span id="header_locationname"><?php echo $locations['location']; ?></span></a>
+  121  
+
+  132                           <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+  133:                          <a href="#" class="bg-gray-900 text-white block rounded-md py-2 px-3 text-base font-medium" aria-current="page">Dashboard</a>
+  134                           <a href="#" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md py-2 px-3 text-base font-medium">Team</a>
+
+src/views/user.php:
+  15          </ul>
+  16:         <div class="pager bg-white w-40" id="registers-all-pager"></div><!-- ページャーの埋め込み先をid指定 -->
+  17      </div>
+
+  61  $accordion = file_get_contents('../javascript/acordion.js');
+  62: $pagenation = file_get_contents('../javascript/pagenation.js');
+  63  $export = file_get_contents('../javascript/template.js');
+
+  76      <?= $accordion ?>
+  77:     <?= $pagenation ?>
+  78      <?= $export ?>
+
+vendor/composer/installed.json:
+    46                      "email": "j.boggiano@seld.be",
+    47:                     "homepage": "http://seld.be"
+    48                  }
+
+   119                      "email": "naderman@naderman.de",
+   120:                     "homepage": "http://www.naderman.de"
+   121                  },
+
+   124                      "email": "j.boggiano@seld.be",
+   125:                     "homepage": "http://seld.be"
+   126                  },
+
+   129                      "email": "rob.bast@gmail.com",
+   130:                     "homepage": "http://robbast.nl"
+   131                  }
+
+   273                      "email": "ocramius@gmail.com",
+   274:                     "homepage": "https://ocramius.github.io/"
+   275                  }
+
+   277              "description": "A small, lightweight utility to instantiate objects in PHP without invoking their constructors",
+   278:             "homepage": "https://www.doctrine-project.org/projects/instantiator.html",
+   279              "keywords": [
+
+   527                      "email": "hello@gjcampbell.co.uk",
+   528:                     "homepage": "https://github.com/GrahamCampbell"
+   529                  },
+
+   532                      "email": "mtdowling@gmail.com",
+   533:                     "homepage": "https://github.com/mtdowling"
+   534                  },
+
+   537                      "email": "jeremeamia@gmail.com",
+   538:                     "homepage": "https://github.com/jeremeamia"
+   539                  },
+
+   542                      "email": "gmponos@gmail.com",
+   543:                     "homepage": "https://github.com/gmponos"
+   544                  },
+
+   547                      "email": "tobias.nyholm@gmail.com",
+   548:                     "homepage": "https://github.com/Nyholm"
+   549                  },
+
+   552                      "email": "mark.sagikazar@gmail.com",
+   553:                     "homepage": "https://github.com/sagikazarmark"
+   554                  },
+
+   557                      "email": "webmaster@tubo-world.de",
+   558:                     "homepage": "https://github.com/Tobion"
+   559                  }
+
+   636                      "email": "hello@gjcampbell.co.uk",
+   637:                     "homepage": "https://github.com/GrahamCampbell"
+   638                  },
+
+   641                      "email": "mtdowling@gmail.com",
+   642:                     "homepage": "https://github.com/mtdowling"
+   643                  },
+
+   646                      "email": "tobias.nyholm@gmail.com",
+   647:                     "homepage": "https://github.com/Nyholm"
+   648                  },
+
+   651                      "email": "webmaster@tubo-world.de",
+   652:                     "homepage": "https://github.com/Tobion"
+   653                  }
+
+   733                      "email": "hello@gjcampbell.co.uk",
+   734:                     "homepage": "https://github.com/GrahamCampbell"
+   735                  },
+
+   738                      "email": "mtdowling@gmail.com",
+   739:                     "homepage": "https://github.com/mtdowling"
+   740                  },
+
+   743                      "email": "gmponos@gmail.com",
+   744:                     "homepage": "https://github.com/gmponos"
+   745                  },
+
+   748                      "email": "tobias.nyholm@gmail.com",
+   749:                     "homepage": "https://github.com/Nyholm"
+   750                  },
+
+   753                      "email": "mark.sagikazar@gmail.com",
+   754:                     "homepage": "https://github.com/sagikazarmark"
+   755                  },
+
+   758                      "email": "webmaster@tubo-world.de",
+   759:                     "homepage": "https://github.com/Tobion"
+   760                  },
+
+   763                      "email": "mark.sagikazar@gmail.com",
+   764:                     "homepage": "https://sagikazarmark.hu"
+   765                  }
+
+  1167              "description": "Finds and installs PSR-7, PSR-17, PSR-18 and HTTPlug implementations",
+  1168:             "homepage": "http://php-http.org",
+  1169              "keywords": [
+
+  1232                      "email": "github@manuel-pichler.de",
+  1233:                     "homepage": "https://github.com/manuelpichler",
+  1234                      "role": "Project Founder"
+
+  1238                      "email": "ravage@bluewin.ch",
+  1239:                     "homepage": "https://github.com/ravage84",
+  1240                      "role": "Project Maintainer"
+
+  1243                      "name": "Other contributors",
+  1244:                     "homepage": "https://github.com/phpmd/phpmd/graphs/contributors",
+  1245                      "role": "Contributors"
+
+  1248              "description": "PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.",
+  1249:             "homepage": "https://phpmd.org/",
+  1250              "keywords": [
+
+  1395              "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+  1396:             "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
+  1397              "keywords": [
+
+  1460              "description": "FilterIterator implementation that filters files based on a list of suffixes.",
+  1461:             "homepage": "https://github.com/sebastianbergmann/php-file-iterator/",
+  1462              "keywords": [
+
+  1527              "description": "Invoke callables with a timeout",
+  1528:             "homepage": "https://github.com/sebastianbergmann/php-invoker/",
+  1529              "keywords": [
+
+  1589              "description": "Simple template engine.",
+  1590:             "homepage": "https://github.com/sebastianbergmann/php-text-template/",
+  1591              "keywords": [
+
+  1651              "description": "Utility class for timing",
+  1652:             "homepage": "https://github.com/sebastianbergmann/php-timer/",
+  1653              "keywords": [
+
+  1746              "description": "The PHP Unit Testing framework.",
+  1747:             "homepage": "https://phpunit.de/",
+  1748              "keywords": [
+
+  1806                      "name": "PHP-FIG",
+  1807:                     "homepage": "https://www.php-fig.org/"
+  1808                  }
+
+  1810              "description": "Common Container Interface (PHP FIG PSR-11)",
+  1811:             "homepage": "https://github.com/php-fig/container",
+  1812              "keywords": [
+
+  1862                      "name": "PHP-FIG",
+  1863:                     "homepage": "http://www.php-fig.org/"
+  1864                  }
+
+  1916                      "name": "PHP-FIG",
+  1917:                     "homepage": "https://www.php-fig.org/"
+  1918                  }
+
+  1920              "description": "Common interface for HTTP clients",
+  1921:             "homepage": "https://github.com/php-fig/http-client",
+  1922              "keywords": [
+
+  1971                      "name": "PHP-FIG",
+  1972:                     "homepage": "https://www.php-fig.org/"
+  1973                  }
+
+  2028                      "name": "PHP-FIG",
+  2029:                     "homepage": "https://www.php-fig.org/"
+  2030                  }
+
+  2032              "description": "Common interface for HTTP messages",
+  2033:             "homepage": "https://github.com/php-fig/http-message",
+  2034              "keywords": [
+
+  2084                      "name": "PHP-FIG",
+  2085:                     "homepage": "https://www.php-fig.org/"
+  2086                  }
+
+  2088              "description": "Common interface for logging libraries",
+  2089:             "homepage": "https://github.com/php-fig/log",
+  2090              "keywords": [
+
+  2192              "description": "Library for parsing CLI options",
+  2193:             "homepage": "https://github.com/sebastianbergmann/cli-parser",
+  2194              "support": {
+
+  2251              "description": "Collection of value objects that represent the PHP code units",
+  2252:             "homepage": "https://github.com/sebastianbergmann/code-unit",
+  2253              "support": {
+
+  2309              "description": "Looks up which function or method a line of code belongs to",
+  2310:             "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+  2311              "support": {
+
+  2381              "description": "Provides the functionality to compare PHP values for equality",
+  2382:             "homepage": "https://github.com/sebastianbergmann/comparator",
+  2383              "keywords": [
+
+  2446              "description": "Library for calculating the complexity of PHP code units",
+  2447:             "homepage": "https://github.com/sebastianbergmann/complexity",
+  2448              "support": {
+
+  2509              "description": "Diff implementation",
+  2510:             "homepage": "https://github.com/sebastianbergmann/diff",
+  2511              "keywords": [
+
+  2576              "description": "Provides functionality to handle HHVM/PHP environments",
+  2577:             "homepage": "http://www.github.com/sebastianbergmann/environment",
+  2578              "keywords": [
+
+  2657              "description": "Provides the functionality to export PHP variables for visualization",
+  2658:             "homepage": "https://www.github.com/sebastianbergmann/exporter",
+  2659              "keywords": [
+
+  2725              "description": "Snapshotting of global state",
+  2726:             "homepage": "http://www.github.com/sebastianbergmann/global-state",
+  2727              "keywords": [
+
+  2788              "description": "Library for counting the lines of code in PHP source code",
+  2789:             "homepage": "https://github.com/sebastianbergmann/lines-of-code",
+  2790              "support": {
+
+  2848              "description": "Traverses array structures and object graphs to enumerate all referenced objects",
+  2849:             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+  2850              "support": {
+
+  2906              "description": "Allows reflection of object attributes, including inherited and non-public ones",
+  2907:             "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+  2908              "support": {
+
+  2972              "description": "Provides functionality to recursively process PHP variables",
+  2973:             "homepage": "https://github.com/sebastianbergmann/recursion-context",
+  2974              "support": {
+
+  3030              "description": "Provides a list of PHP built-in functions that operate on resources",
+  3031:             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+  3032              "support": {
+
+  3089              "description": "Collection of value objects that represent the types of the PHP type system",
+  3090:             "homepage": "https://github.com/sebastianbergmann/type",
+  3091              "support": {
+
+  3145              "description": "Library that helps with managing the version number of Git-hosted PHP projects",
+  3146:             "homepage": "https://github.com/sebastianbergmann/version",
+  3147              "support": {
+
+  3209                      "name": "Contributors",
+  3210:                     "homepage": "https://github.com/PHPCSStandards/PHP_CodeSniffer/graphs/contributors"
+  3211                  }
+
+  3213              "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+  3214:             "homepage": "https://github.com/PHPCSStandards/PHP_CodeSniffer",
+  3215              "keywords": [
+
+  3298                      "name": "Symfony Community",
+  3299:                     "homepage": "https://symfony.com/contributors"
+  3300                  }
+
+  3302              "description": "Helps you find, load, combine, autofill and validate configuration values of any kind",
+  3303:             "homepage": "https://symfony.com",
+  3304              "support": {
+
+  3394                      "name": "Symfony Community",
+  3395:                     "homepage": "https://symfony.com/contributors"
+  3396                  }
+
+  3398              "description": "Eases the creation of beautiful and testable command line interfaces",
+  3399:             "homepage": "https://symfony.com",
+  3400              "keywords": [
+
+  3489                      "name": "Symfony Community",
+  3490:                     "homepage": "https://symfony.com/contributors"
+  3491                  }
+
+  3493              "description": "Allows you to standardize and centralize the way objects are constructed in your application",
+  3494:             "homepage": "https://symfony.com",
+  3495              "support": {
+
+  3559                      "name": "Symfony Community",
+  3560:                     "homepage": "https://symfony.com/contributors"
+  3561                  }
+
+  3563              "description": "A generic function and convention to trigger deprecation notices",
+  3564:             "homepage": "https://symfony.com",
+  3565              "support": {
+
+  3647                      "name": "Symfony Community",
+  3648:                     "homepage": "https://symfony.com/contributors"
+  3649                  }
+
+  3651              "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
+  3652:             "homepage": "https://symfony.com",
+  3653              "support": {
+
+  3718                      "name": "Symfony Community",
+  3719:                     "homepage": "https://symfony.com/contributors"
+  3720                  }
+
+  3722              "description": "Generic abstractions related to dispatching event",
+  3723:             "homepage": "https://symfony.com",
+  3724              "keywords": [
+
+  3793                      "name": "Symfony Community",
+  3794:                     "homepage": "https://symfony.com/contributors"
+  3795                  }
+
+  3797              "description": "Provides basic utilities for the filesystem",
+  3798:             "homepage": "https://symfony.com",
+  3799              "support": {
+
+  3860                      "name": "Symfony Community",
+  3861:                     "homepage": "https://symfony.com/contributors"
+  3862                  }
+
+  3864              "description": "Finds files and directories via an intuitive fluent interface",
+  3865:             "homepage": "https://symfony.com",
+  3866              "support": {
+
+  3925                      "name": "Symfony Community",
+  3926:                     "homepage": "https://symfony.com/contributors"
+  3927                  }
+
+  3929              "description": "Provides an improved replacement for the array_replace PHP function",
+  3930:             "homepage": "https://symfony.com",
+  3931              "keywords": [
+
+  4006                      "name": "Symfony Community",
+  4007:                     "homepage": "https://symfony.com/contributors"
+  4008                  }
+
+  4010              "description": "Symfony polyfill for ctype functions",
+  4011:             "homepage": "https://symfony.com",
+  4012              "keywords": [
+
+  4085                      "name": "Symfony Community",
+  4086:                     "homepage": "https://symfony.com/contributors"
+  4087                  }
+
+  4089              "description": "Symfony polyfill for intl's grapheme_* functions",
+  4090:             "homepage": "https://symfony.com",
+  4091              "keywords": [
+
+  4169                      "name": "Symfony Community",
+  4170:                     "homepage": "https://symfony.com/contributors"
+  4171                  }
+
+  4173              "description": "Symfony polyfill for intl's Normalizer class and related functions",
+  4174:             "homepage": "https://symfony.com",
+  4175              "keywords": [
+
+  4253                      "name": "Symfony Community",
+  4254:                     "homepage": "https://symfony.com/contributors"
+  4255                  }
+
+  4257              "description": "Symfony polyfill for the Mbstring extension",
+  4258:             "homepage": "https://symfony.com",
+  4259              "keywords": [
+
+  4333                      "name": "Symfony Community",
+  4334:                     "homepage": "https://symfony.com/contributors"
+  4335                  }
+
+  4337              "description": "Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions",
+  4338:             "homepage": "https://symfony.com",
+  4339              "keywords": [
+
+  4416                      "name": "Symfony Community",
+  4417:                     "homepage": "https://symfony.com/contributors"
+  4418                  }
+
+  4420              "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
+  4421:             "homepage": "https://symfony.com",
+  4422              "keywords": [
+
+  4495                      "name": "Symfony Community",
+  4496:                     "homepage": "https://symfony.com/contributors"
+  4497                  }
+
+  4499              "description": "Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions",
+  4500:             "homepage": "https://symfony.com",
+  4501              "keywords": [
+
+  4565                      "name": "Symfony Community",
+  4566:                     "homepage": "https://symfony.com/contributors"
+  4567                  }
+
+  4569              "description": "Executes commands in sub-processes",
+  4570:             "homepage": "https://symfony.com",
+  4571              "support": {
+
+  4643                      "name": "Symfony Community",
+  4644:                     "homepage": "https://symfony.com/contributors"
+  4645                  }
+
+  4647              "description": "Generic abstractions related to writing services",
+  4648:             "homepage": "https://symfony.com",
+  4649              "keywords": [
+
+  4716                      "name": "Symfony Community",
+  4717:                     "homepage": "https://symfony.com/contributors"
+  4718                  }
+
+  4720              "description": "Provides a way to profile code",
+  4721:             "homepage": "https://symfony.com",
+  4722              "support": {
+
+  4797                      "name": "Symfony Community",
+  4798:                     "homepage": "https://symfony.com/contributors"
+  4799                  }
+
+  4801              "description": "Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way",
+  4802:             "homepage": "https://symfony.com",
+  4803              "keywords": [
+
+vendor/composer/pcre/composer.json:
+  15              "email": "j.boggiano@seld.be",
+  16:             "homepage": "http://seld.be"
+  17          }
+
+vendor/composer/semver/composer.json:
+  15              "email": "naderman@naderman.de",
+  16:             "homepage": "http://www.naderman.de"
+  17          },
+
+  20              "email": "j.boggiano@seld.be",
+  21:             "homepage": "http://seld.be"
+  22          },
+
+  25              "email": "rob.bast@gmail.com",
+  26:             "homepage": "http://robbast.nl"
+  27          }
+
+vendor/doctrine/instantiator/composer.json:
+   5      "license":           "MIT",
+   6:     "homepage":          "https://www.doctrine-project.org/projects/instantiator.html",
+   7      "keywords":          [
+
+  14              "email":    "ocramius@gmail.com",
+  15:             "homepage": "https://ocramius.github.io/"
+  16          }
+
+vendor/friendsofphp/php-cs-fixer/CHANGELOG.md:
+  1448  * minor #5747 RandomApiMigrationFixer - better docs and better "random_int" support (SpacePossum)
+  1449: * minor #5748 Updated the link to netbeans plugins page (cyberguroo)
+  1450  * minor #5750 Test all const are in uppercase (SpacePossum)
+
+  1597  * minor #5747 RandomApiMigrationFixer - better docs and better "random_int" support (SpacePossum)
+  1598: * minor #5748 Updated the link to netbeans plugins page (cyberguroo)
+  1599  * minor #5750 Test all const are in uppercase (SpacePossum)
+
+vendor/guzzlehttp/guzzle/composer.json:
+  19              "email": "hello@gjcampbell.co.uk",
+  20:             "homepage": "https://github.com/GrahamCampbell"
+  21          },
+
+  24              "email": "mtdowling@gmail.com",
+  25:             "homepage": "https://github.com/mtdowling"
+  26          },
+
+  29              "email": "jeremeamia@gmail.com",
+  30:             "homepage": "https://github.com/jeremeamia"
+  31          },
+
+  34              "email": "gmponos@gmail.com",
+  35:             "homepage": "https://github.com/gmponos"
+  36          },
+
+  39              "email": "tobias.nyholm@gmail.com",
+  40:             "homepage": "https://github.com/Nyholm"
+  41          },
+
+  44              "email": "mark.sagikazar@gmail.com",
+  45:             "homepage": "https://github.com/sagikazarmark"
+  46          },
+
+  49              "email": "webmaster@tubo-world.de",
+  50:             "homepage": "https://github.com/Tobion"
+  51          }
+
+vendor/guzzlehttp/promises/composer.json:
+   9              "email": "hello@gjcampbell.co.uk",
+  10:             "homepage": "https://github.com/GrahamCampbell"
+  11          },
+
+  14              "email": "mtdowling@gmail.com",
+  15:             "homepage": "https://github.com/mtdowling"
+  16          },
+
+  19              "email": "tobias.nyholm@gmail.com",
+  20:             "homepage": "https://github.com/Nyholm"
+  21          },
+
+  24              "email": "webmaster@tubo-world.de",
+  25:             "homepage": "https://github.com/Tobion"
+  26          }
+
+vendor/guzzlehttp/psr7/composer.json:
+  18              "email": "hello@gjcampbell.co.uk",
+  19:             "homepage": "https://github.com/GrahamCampbell"
+  20          },
+
+  23              "email": "mtdowling@gmail.com",
+  24:             "homepage": "https://github.com/mtdowling"
+  25          },
+
+  28              "email": "gmponos@gmail.com",
+  29:             "homepage": "https://github.com/gmponos"
+  30          },
+
+  33              "email": "tobias.nyholm@gmail.com",
+  34:             "homepage": "https://github.com/Nyholm"
+  35          },
+
+  38              "email": "mark.sagikazar@gmail.com",
+  39:             "homepage": "https://github.com/sagikazarmark"
+  40          },
+
+  43              "email": "webmaster@tubo-world.de",
+  44:             "homepage": "https://github.com/Tobion"
+  45          },
+
+  48              "email": "mark.sagikazar@gmail.com",
+  49:             "homepage": "https://sagikazarmark.hu"
+  50          }
+
+vendor/guzzlehttp/psr7/src/MimeType.php:
+  716          'pac' => 'application/x-ns-proxy-autoconfig',
+  717:         'pages' => 'application/x-iwork-pages-sffpages',
+  718          'pas' => 'text/x-pascal',
+
+vendor/nikic/php-parser/bin/php-parse:
+  123          --version=VERSION   Target specific PHP version (default: newest)
+  124:     -h, --help              Display this page
+  125  
+
+vendor/pdepend/pdepend/src/main/php/PDepend/Report/Jdepend/chart.svg:
+  80       id="base"
+  81:      pagecolor="#ffffff"
+  82       bordercolor="#666666"
+
+  86       objecttolerance="10"
+  87:      inkscape:pageopacity="0.0"
+  88:      inkscape:pageshadow="2"
+  89       inkscape:zoom="1.5"
+
+vendor/pdepend/pdepend/src/main/php/PDepend/Report/Overview/pyramid.svg:
+  30       id="base"
+  31:      pagecolor="#ffffff"
+  32       bordercolor="#666666"
+
+  36       objecttolerance="10"
+  37:      inkscape:pageopacity="0.0"
+  38:      inkscape:pageshadow="2"
+  39       inkscape:zoom="1.5"
+
+vendor/php-http/discovery/composer.json:
+  6      "keywords": ["http", "discovery", "client", "adapter", "message", "factory", "psr7", "psr17"],
+  7:     "homepage": "http://php-http.org",
+  8      "authors": [
+
+vendor/phpmd/phpmd/CHANGELOG:
+  232  - Fixed #631: Fixed URL to "How to create a custom rule set"
+  233:   documentation page on website Fixed in commit #3c5b534.
+  234  - Fixed #449: Improved code style Fixed in commit #67cdab2.
+
+vendor/phpmd/phpmd/composer.json:
+  13    "license": "BSD-3-Clause",
+  14:   "homepage": "https://phpmd.org/",
+  15    "authors": [
+
+  17        "name": "Manuel Pichler",
+  18:       "homepage": "https://github.com/manuelpichler",
+  19        "email": "github@manuel-pichler.de",
+
+  23        "name": "Marc Würth",
+  24:       "homepage": "https://github.com/ravage84",
+  25        "email": "ravage@bluewin.ch",
+
+  29        "name": "Other contributors",
+  30:       "homepage": "https://github.com/phpmd/phpmd/graphs/contributors",
+  31        "role": "Contributors"
+
+vendor/phpmd/phpmd/src/main/php/PHPMD/Renderer/HTMLRenderer.php:
+  357          // Render details of each violation and place the "Details" display toggle.
+  358:         $writer->write("<h2 style='page-break-before: always'>Details</h2>");
+  359          $writer->write("
+
+vendor/phpunit/php-code-coverage/ChangeLog-9.2.md:
+  43  
+  44: * Improved the legend on the file pages of the HTML code coverage report
+  45  
+
+vendor/phpunit/php-code-coverage/composer.json:
+   9      ],
+  10:     "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
+  11      "license": "BSD-3-Clause",
+
+vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/css/bootstrap.min.css:
+  5   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  6: ⟪ 86471 characters skipped ⟫dcrumb-item+.breadcrumb-item:hover::before{text-decoration:none}.breadcrumb-item.active{color:#6c757d}.pagination{display:-ms-flexbox;display:flex;padding-left:0;list-style:none;border-radius:.25rem}.page-link{position:relative;display:block;padding:.5rem .75rem;margin-left:-1px;line-height:1.25;color:#007bff;background-color:#fff;border:1px solid #dee2e6}.page-link:hover{z-index:2;color:#0056b3;text-decoration:none;background-color:#e9ecef;border-color:#dee2e6}.page-link:focus{z-index:3;outline:0;box-shadow:0 0 0 .2rem rgba(0,123,255,.25)}.page-item:first-child .page-link{margin-left:0;border-top-left-radius:.25rem;border-bottom-left-radius:.25rem}.page-item:last-child .page-link{border-top-right-radius:.25rem;border-bottom-right-radius:.25rem}.page-item.active .page-link{z-index:3;color:#fff;background-color:#007bff;border-color:#007bff}.page-item.disabled .page-link{color:#6c757d;pointer-events:none;cursor:auto;background-color:#fff;border-color:#dee2e6}.pagination-lg .page-link{padding:.75rem 1.5rem;font-size:1.25rem;line-height:1.5}.pagination-lg .page-item:first-child .page-link{border-top-left-radius:.3rem;border-bottom-left-radius:.3rem}.pagination-lg .page-item:last-child .page-link{border-top-right-radius:.3rem;border-bottom-right-radius:.3rem}.pagination-sm .page-link{padding:.25rem .5rem;font-size:.875rem;line-height:1.5}.pagination-sm .page-item:first-child .page-link{border-top-left-radius:.2rem;border-bottom-left-radius:.2rem}.pagination-sm .page-item:last-child .page-link{border-top-right-radius:.2rem;border-bottom-right-radius:.2rem}.badge{display:inline-block;padding:.25em .4em;font-size:75%;font-weight:700;line-height:1;text-align:center;white-space:nowrap;vertical-align:baseline;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out}@media (prefers-reduced-motion:reduce){.badge{transition:none}}a.badge:focus,a.badge:hover{text-decoration:none}.badge:empty{display:none}.btn .badge{position:relative;top:-1px}.badge-pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}.badge-primary{color:#fff;background-color:#007bff}a.badge-primary:focus,a.badge-primary:hover{color:#fff;background-color:#0062cc}a.badge-primary.focus,a.badge-primary:focus{outline:0;box-shadow:0 0 0 .2rem rgba(0,123,255,.5)}.badge-secondary{color:#fff;background-color:#6c757d}a.badge-secondary:focus,a.badge-secondary:hover{color:#fff;background-color:#545b62}a.badge-secondary.⟪ 72244 characters skipped ⟫ne!important;box-shadow:none!important}a:not(.btn){text-decoration:underline}abbr[title]::after{content:" (" attr(title) ")"}pre{white-space:pre-wrap!important}blockquote,pre{border:1px solid #adb5bd;page-break-inside:avoid}img,tr{page-break-inside:avoid}h2,h3,p{orphans:3;widows:3}h2,h3{page-break-after:avoid}@page{size:a3}body{min-width:992px!important}.container{min-width:992px!important}.navbar{display:none}.badge{border:1px solid #000}.table{border-collapse:collapse!important}.table td,.table th{background-color:#fff!important}.table-bordered td,.table-bordered th{border:1px solid #dee2e6!important}.table-dark{color:inherit}.table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th{border-color:#dee2e6}.table .thead-dark th{color:inherit;border-color:#dee2e6}}
+  7  /*# sourceMappingURL=bootstrap.min.css.map */
+
+vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/bootstrap.min.js:
+  5    */
+  6: ⟪ 53855 characters skipped ⟫.attr("id");e||(e=d.getUID(Gt),o.default(t.target).attr("id",e)),t.target="#"+e}return d.typeCheckConfig(Gt,t,ae),t},e._getScrollTop=function(){return this._scrollElement===window?this._scrollElement.pageYOffset:this._scrollElement.scrollTop},e._getScrollHeight=function(){return this._scrollElement.scrollHeight||Math.max(document.body.scrollHeight,document.documentElement.scrollHeight)},e._getOffsetHeight=function(){return this._scrollElement===window?window.innerHeight:this._scrollElement.getBoundingClientRect().height},e._process=function(){var t=this._getScrollTop()+this._config.offset,e=this._getScrollHeight(),n=this._config.offset+e-this._getOffsetHeight();if(this._scrollHeight!==e&&this.refresh(),t>=n){var i=this._targets[this._targets.length-1];this._activeTarget!==i&&this._activate(i)}else{if(this._activeTarget&&t<this._offsets[0]&&this._offsets[0]>0)return this._activeTarget=null,void this._clear();for(var o=this._offsets.length;o--;)this._activeTarget!==this._targets[o]&&t>=this._offsets[o]&&("undefined"==typeof this._offsets[o+1]||t<this._offsets[o+1])&&this._activate(this._targets[o])}},e._activate=function(t){this._activeTarget=t,this._clear();var e=this._selector.spli
+  7  //# sourceMappingURL=bootstrap.min.js.map
+
+vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/d3.min.js:
+  1: ⟪ 5965 characters skipped ⟫ollY){r=ao.select("body").append("svg").style({position:"absolute",top:0,left:0,margin:0,padding:0,border:"none"},"important");var o=r[0][0].getScreenCTM();Po=!(o.f||o.e),r.remove()}}return Po?(i.x=e.pageX,i.y=e.pageY):(i.x=e.clientX,i.y=e.clientY),i=i.matrixTransform(n.getScreenCTM().inverse()),[i.x,i.y]}var a=n.getBoundingClientRect();return[e.clientX-a.left-n.clientLeft,e.clientY-a.top-n.clientTop]}function G(){return ao.event.changedTouches[0].identifier}function K(n){return n>0?1:0>n?-1:0}function Q(n,t,e){return(t[0]-n[0])*(e[1]-n[1])-(t[1]-n[1])*(e[0]-n[0])}function nn(n){return n>1?0:-1>n?Fo:Math.acos(n)}function tn(n){return n>1?Io:-1>n?-Io:Math.asin(n)}function en(n){return((n=Math.exp(n))-1/n)/2}function rn(n){return((n=Math.exp(n))+1/n)/2}function un(n){return((n=Math.exp(2*n))-1)/(n+1)}function on(n){return(n=Math.sin(n/2))*n}function an(){}function ln(n,t,e){return this instanceof ln?(this.h=+n,this.s=+t,void(this.l=+e)):arguments.length<2?n instanceof ln?new ln(n.h,n.s,n.l):_n(""+n,wn,ln):new ln(n,t,e)}function cn(n,t,e){function r(n){return n>360?n-=360:0>n&&(n+=360),60>n?u+(o-u)*n/60:180>n?o:240>n?u+(o-u)*(240-n)/60:u}function i(n){return Math.round(255*r(n))}var u,o;return n=
+  2  r(),S.point=c,S.lineEnd=f}function c(n,t){u(s=n,h=t),p=M,g=x,v=b,d=_,y=w,S.point=u}function f(){i(M,x,m,b,_,w,p,g,s,v,d,y,a,t),S.lineEnd=o,o()}var s,h,p,g,v,d,y,m,M,x,b,_,w,S={point:e,lineStart:r,lineEnd:o,polygonStart:function(){t.polygonStart(),S.lineStart=l},polygonEnd:function(){t.polygonEnd(),S.lineStart=r}};return S}function i(t,e,r,a,l,c,f,s,h,p,g,v,d,y){var m=f-t,M=s-e,x=m*m+M*M;if(x>4*u&&d--){var b=a+p,_=l+g,w=c+v,S=Math.sqrt(b*b+_*_+w*w),k=Math.asin(w/=S),N=xo(xo(w)-1)<Uo||xo(r-h)<Uo?(r+h)/2:Math.atan2(_,b),E=n(N,k),A=E[0],C=E[1],z=A-t,L=C-e,q=M*z-m*L;(q*q/x>u||xo((m*z+M*L)/x-.5)>.3||o>a*p+l*g+c*v)&&(i(t,e,r,a,l,c,A,C,N,b/=S,_/=S,w,d,y),y.point(A,C),i(A,C,N,b,_,w,f,s,h,p,g,v,d,y))}}var u=.5,o=Math.cos(30*Yo),a=16;return t.precision=function(n){return arguments.length?(a=(u=n*n)>0&&16,t):Math.sqrt(u)},t}function re(n){var t=ee(function(t,e){return n([t*Zo,e*Zo])});return function(n){return le(t(n))}}function ie(n){this.stream=n}function ue(n,t){return{point:t,sphere:function(){n.sphere()},lineStart:function(){n.lineStart()},lineEnd:function(){n.lineEnd()},polygonStart:function(){n.polygonStart()},polygonEnd:function(){n.polygonEnd()}}}function oe(n){return ae(function(){return n})()}function ae(n){function t(n){return n=a(n[0]*Yo,n[1]*Yo),[n[0]*h+l,c-n[1]*h]}function e(n){return n=a.invert((n[0]-l)/h,(c-n[1])/h),n&&[n[0]*Zo,n[1]*Zo]}function r(){a=Ct(o=se(y,M,x),u);var n=u(v,d);return l=p-n[0]*h,c=g+n[1]*h,i()}function i(){return f&&(f.valid=!1,f=null),t}var u,o,a,l,c,f,s=ee(function(n,t){return n=u(n,t),[n[0]*h+l,c-n[1]*h]}),h=150,p=480,g=250,v=0,d=0,y=0,M=0,x=0,b=Fa,_=m,w=null,S=null;return t.stream=function(n){return f&&(f.valid=!1),f=le(b(o,s(_(n)))),f.valid=!0,f},t.clipAngle=function(n){return arguments.length?(b=null==n?(w=n,Fa):It((w=+n)*Yo),i()):w},t.clipExtent=function(n){return arguments.length?(S=n,_=n?Zt(n[0][0],n[0][1],n[1][0],n[1][1]):m,i()):S},t.scale=function(n){return arguments.length?(h=+n,r()):h},t.translate=function(n){return arguments.length?(p=+n[0],g=+n[1],r()):[p,g]},t.center=function(n){return arguments.length?(v=n[0]%360*Yo,d=n[1]%360*Yo,r()):[v*Zo,d*Zo]},t.rotate=function(n){return arguments.length?(y=n[0]%360*Yo,M=n[1]%360*Yo,x=n.length>2?n[2]%360*Yo:0,r()):[y*Zo,M*Zo,x*Zo]},ao.rebind(t,s,"precision"),function(){return u=n.apply(this,arguments),t.invert=u.invert&&e,r()}}function le(n){return ue(n,function(t,e){n.point(t*Yo,e*Yo)})}function ce(n,t){return[n,t]}function fe(n,t){return[n>Fo?n-Ho:-Fo>n?n+Ho:n,t]}function se(n,t,e){return n?t||e?Ct(pe(n),ge(t,e)):pe(n):t||e?ge(t,e):fe}function he(n){return function(t,e){return t+=n,[t>Fo?t-Ho:-Fo>t?t+Ho:t,e]}}function pe(n){var t=he(n);return t.invert=he(-n),t}function ge(n,t){function e(n,t){var e=Math.cos(t),a=Math.cos(n)*e,l=Math.sin(n)*e,c=Math.sin(t),f=c*r+a*i;return[Math.atan2(l*u-f*o,a*r-c*i),tn(f*u+l*o)]}var r=Math.cos(n),i=Math.sin(n),u=Math.cos(t),o=Math.sin(t);return e.invert=function(n,t){var e=Math.cos(t),a=Math.cos(n)*e,l=Math.sin(n)*e,c=Math.sin(t),f=c*u-l*o;return[Math.atan2(l*u+c*o,a*r+f*i),tn(f*r-a*i)]},e}function ve(n,t){var e=Math.cos(n),r=Math.sin(n);return function(i,u,o,a){var l=o*t;null!=i?(i=de(e,i),u=de(e,u),(o>0?u>i:i>u)&&(i+=o*Ho)):(i=n+o*Ho,u=n-.5*l);for(var c,f=i;o>0?f>u:u>f;f-=l)a.point((c=_t([e,-r*Math.cos(f),-r*Math.sin(f)]))[0],c[1])}}function de(n,t){var e=dt(t);e[0]-=n,bt(e);var r=nn(-e[1]);return((-e[2]<0?-r:r)+2*Math.PI-Uo)%(2*Math.PI)}function ye(n,t,e){var r=ao.range(n,t-Uo,e).concat(t);return function(n){return r.map(function(t){return[n,t]})}}function me(n,t,e){var r=ao.range(n,t-Uo,e).concat(t);return function(n){return r.map(function(t){return[t,n]})}}function Me(n){return n.source}function xe(n){return n.target}function be(n,t,e,r){var i=Math.cos(t),u=Math.sin(t),o=Math.cos(r),a=Math.sin(r),l=i*Math.cos(n),c=i*Math.sin(n),f=o*Math.cos(e),s=o*Math.sin(e),h=2*Math.asin(Math.sqrt(on(r-t)+i*o*on(e-n))),p=1/Math.sin(h),g=h?function(n){var t=Math.sin(n*=h)*p,e=Math.sin(h-n)*p,r=e*l+t*f,i=e*c+t*s,o=e*u+t*a;return[Math.atan2(i,r)*Zo,Math.atan2(o,Math.sqrt(r*r+i*i))*Zo]}:function(){return[n*Zo,t*Zo]};return g.distance=h,g}function _e(){function n(n,i){var u=Math.sin(i*=Yo),o=Math.cos(i),a=xo((n*=Yo)-t),l=Math.cos(a);Ja+=Math.atan2(Math.sqrt((a=o*Math.sin(a))*a+(a=r*u-e*o*l)*a),e*u+r*o*l),t=n,e=u,r=o}var t,e,r;Ga.point=function(i,u){t=i*Yo,e=Math.sin(u*=Yo),r=Math.cos(u),Ga.point=n},Ga.lineEnd=function(){Ga.point=Ga.lineEnd=b}}function we(n,t){function e(t,e){var r=Math.cos(t),i=Math.cos(e),u=n(r*i);return[u*i*Math.sin(t),u*Math.sin(e)]}return e.invert=function(n,e){var r=Math.sqrt(n*n+e*e),i=t(r),u=Math.sin(i),o=Math.cos(i);return[Math.atan2(n*u,r*o),Math.asin(r&&e*u/r)]},e}function Se(n,t){function e(n,t){o>0?-Io+Uo>t&&(t=-Io+Uo):t>Io-Uo&&(t=Io-Uo);var e=o/Math.pow(i(t),u);return[e*Math.sin(u*n),o-e*Math.cos(u*n)]}var r=Math.cos(n),i=function(n){return Math.tan(Fo/4+n/2)},u=n===t?Math.sin(n):Math.log(r/Math.cos(t))/Math.log(i(t)/i(n)),o=r*Math.pow(i(n),u)/u;return u?(e.invert=function(n,t){var e=o-t,r=K(u)*Math.sqrt(n*n+e*e);return[Math.atan2(n,e)/u,2*Math.atan(Math.pow(o/r,1/u))-Io]},e):Ne}function ke(n,t){function e(n,t){var e=u-t;return[e*Math.sin(i*n),u-e*Math.cos(i*n)]}var r=Math.cos(n),i=n===t?Math.sin(n):(r-Math.cos(t))/(t-n),u=r/i+n;return xo(i)<Uo?ce:(e.invert=function(n,t){var e=u-t;return[Math.atan2(n,e)/i,u-K(i)*Math.sqrt(n*n+e*e)]},e)}function Ne(n,t){return[n,Math.log(Math.tan(Fo/4+t/2))]}function Ee(n){var t,e=oe(n),r=e.scale,i=e.translate,u=e.clipExtent;return e.scale=function(){var n=r.apply(e,arguments);return n===e?t?e.clipExtent(null):e:n},e.translate=function(){var n=i.apply(e,arguments);return n===e?t?e.clipExtent(null):e:n},e.clipExtent=function(n){var o=u.apply(e,arguments);if(o===e){if(t=null==n){var a=Fo*r(),l=i();u([[l[0]-a,l[1]-a],[l[0]+a,l[1]+a]])}}else t&&(o=null);return o},e.clipExtent(null)}function Ae(n,t){return[Math.log(Math.tan(Fo/4+t/2)),-n]}function Ce(n){return n[0]}function ze(n){return n[1]}function Le(n){for(var t=n.length,e=[0,1],r=2,i=2;t>i;i++){for(;r>1&&Q(n[e[r-2]],n[e[r-1]],n[i])<=0;)--r;e[r++]=i}return e.slice(0,r)}function qe(n,t){return n[0]-t[0]||n[1]-t[1]}function Te(n,t,e){return(e[0]-t[0])*(n[1]-t[1])<(e[1]-t[1])*(n[0]-t[0])}function Re(n,t,e,r){var i=n[0],u=e[0],o=t[0]-i,a=r[0]-u,l=n[1],c=e[1],f=t[1]-l,s=r[1]-c,h=(a*(l-c)-s*(i-u))/(s*o-a*f);return[i+h*o,l+h*f]}function De(n){var t=n[0],e=n[n.length-1];return!(t[0]-e[0]||t[1]-e[1])}function Pe(){rr(this),this.edge=this.site=this.circle=null}function Ue(n){var t=cl.pop()||new Pe;return t.site=n,t}function je(n){Be(n),ol.remove(n),cl.push(n),rr(n)}function Fe(n){var t=n.circle,e=t.x,r=t.cy,i={x:e,y:r},u=n.P,o=n.N,a=[n];je(n);for(var l=u;l.circle&&xo(e-l.circle.x)<Uo&&xo(r-l.circle.cy)<Uo;)u=l.P,a.unshift(l),je(l),l=u;a.unshift(l),Be(l);for(var c=o;c.circle&&xo(e-c.circle.x)<Uo&&xo(r-c.circle.cy)<Uo;)o=c.N,a.push(c),je(c),c=o;a.push(c),Be(c);var f,s=a.length;for(f=1;s>f;++f)c=a[f],l=a[f-1],nr(c.edge,l.site,c.site,i);l=a[0],c=a[s-1],c.edge=Ke(l.site,c.site,null,i),$e(l),$e(c)}function He(n){for(var t,e,r,i,u=n.x,o=n.y,a=ol._;a;)if(r=Oe(a,o)-u,r>Uo)a=a.L;else{if(i=u-Ie(a,o),!(i>Uo)){r>-Uo?(t=a.P,e=a):i>-Uo?(t=a,e=a.N):t=e=a;break}if(!a.R){t=a;break}a=a.R}var l=Ue(n);if(ol.insert(t,l),t||e){if(t===e)return Be(t),e=Ue(t.site),ol.insert(l,e),l.edge=e.edge=Ke(t.site,l.site),$e(t),void $e(e);if(!e)return void(l.edge=Ke(t.site,l.site));Be(t),Be(e);var c=t.site,f=c.x,s=c.y,h=n.x-f,p=n.y-s,g=e.site,v=g.x-f,d=g.y-s,y=2*(h*d-p*v),m=h*h+p*p,M=v*v+d*d,x={x:(d*m-p*M)/y+f,y:(h*M-v*m)/y+s};nr(e.edge,c,g,x),l.edge=Ke(c,n,null,x),e.edge=Ke(n,g,null,x),$e(t),$e(e)}}function Oe(n,t){var e=n.site,r=e.x,i=e.y,u=i-t;if(!u)return r;var o=n.P;if(!o)return-(1/0);e=o.site;var a=e.x,l=e.y,c=l-t;if(!c)return a;var f=a-r,s=1/u-1/c,h=f/c;return s?(-h+Math.sqrt(h*h-2*s*(f*f/(-2*c)-l+c/2+i-u/2)))/s+r:(r+a)/2}function Ie(n,t){var e=n.N;if(e)return Oe(e,t);var r=n.site;return r.y===t?r.x:1/0}function Ye(n){this.site=n,this.edges=[]}function Ze(n){for(var t,e,r,i,u,o,a,l,c,f,s=n[0][0],h=n[1][0],p=n[0][1],g=n[1][1],v=ul,d=v.length;d--;)if(u=v[d],u&&u.prepare())for(a=u.edges,l=a.length,o=0;l>o;)f=a[o].end(),r=f.x,i=f.y,c=a[++o%l].start(),t=c.x,e=c.y,(xo(r-t)>Uo||xo(i-e)>Uo)&&(a.splice(o,0,new tr(Qe(u.site,f,xo(r-s)<Uo&&g-i>Uo?{x:s,y:xo(t-s)<Uo?e:g}:xo(i-g)<Uo&&h-r>Uo?{x:xo(e-g)<Uo?t:h,y:g}:xo(r-h)<Uo&&i-p>Uo?{x:h,y:xo(t-h)<Uo?e:p}:xo(i-p)<Uo&&r-s>Uo?{x:xo(e-p)<Uo?t:s,y:p}:null),u.site,null)),++l)}function Ve(n,t){return t.angle-n.angle}function Xe(){rr(this),this.x=this.y=this.arc=this.site=this.cy=null}function $e(n){var t=n.P,e=n.N;if(t&&e){var r=t.site,i=n.site,u=e.site;if(r!==u){var o=i.x,a=i.y,l=r.x-o,c=r.y-a,f=u.x-o,s=u.y-a,h=2*(l*s-c*f);if(!(h>=-jo)){var p=l*l+c*c,g=f*f+s*s,v=(s*p-c*g)/h,d=(l*g-f*p)/h,s=d+a,y=fl.pop()||new Xe;y.arc=n,y.site=i,y.x=v+o,y.y=s+Math.sqrt(v*v+d*d),y.cy=s,n.circle=y;for(var m=null,M=ll._;M;)if(y.y<M.y||y.y===M.y&&y.x<=M.x){if(!M.L){m=M.P;break}M=M.L}else{if(!M.R){m=M;break}M=M.R}ll.insert(m,y),m||(al=y)}}}}function Be(n){var t=n.circle;t&&(t.P||(al=t.N),ll.remove(t),fl.push(t),rr(t),n.circle=null)}function We(n){for(var t,e=il,r=Yt(n[0][0],n[0][1],n[1][0],n[1][1]),i=e.length;i--;)t=e[i],(!Je(t,n)||!r(t)||xo(t.a.x-t.b.x)<Uo&&xo(t.a.y-t.b.y)<Uo)&&(t.a=t.b=null,e.splice(i,1))}function Je(n,t){var e=n.b;if(e)return!0;var r,i,u=n.a,o=t[0][0],a=t[1][0],l=t[0][1],c=t[1][1],f=n.l,s=n.r,h=f.x,p=f.y,g=s.x,v=s.y,d=(h+g)/2,y=(p+v)/2;if(v===p){if(o>d||d>=a)return;if(h>g){if(u){if(u.y>=c)return}else u={x:d,y:l};e={x:d,y:c}}else{if(u){if(u.y<l)return}else u={x:d,y:c};e={x:d,y:l}}}else if(r=(h-g)/(v-p),i=y-r*d,-1>r||r>1)if(h>g){if(u){if(u.y>=c)return}else u={x:(l-i)/r,y:l};e={x:(c-i)/r,y:c}}else{if(u){if(u.y<l)return}else u={x:(c-i)/r,y:c};e={x:(l-i)/r,y:l}}else if(v>p){if(u){if(u.x>=a)return}else u={x:o,y:r*o+i};e={x:a,y:r*a+i}}else{if(u){if(u.x<o)return}else u={x:a,y:r*a+i};e={x:o,y:r*o+i}}return n.a=u,n.b=e,!0}function Ge(n,t){this.l=n,this.r=t,this.a=this.b=null}function Ke(n,t,e,r){var i=new Ge(n,t);return il.push(i),e&&nr(i,n,t,e),r&&nr(i,t,n,r),ul[n.i].edges.push(new tr(i,n,t)),ul[t.i].edges.push(new tr(i,t,n)),i}function Qe(n,t,e){var r=new Ge(n,null);return r.a=t,r.b=e,il.push(r),r}function nr(n,t,e,r){n.a||n.b?n.l===e?n.b=r:n.a=r:(n.a=r,n.l=t,n.r=e)}function tr(n,t,e){var r=n.a,i=n.b;this.edge=n,this.site=t,this.angle=e?Math.atan2(e.y-t.y,e.x-t.x):n.l===t?Math.atan2(i.x-r.x,r.y-i.y):Math.atan2(r.x-i.x,i.y-r.y)}function er(){this._=null}function rr(n){n.U=n.C=n.L=n.R=n.P=n.N=null}function ir(n,t){var e=t,r=t.R,i=e.U;i?i.L===e?i.L=r:i.R=r:n._=r,r.U=i,e.U=r,e.R=r.L,e.R&&(e.R.U=e),r.L=e}function ur(n,t){var e=t,r=t.L,i=e.U;i?i.L===e?i.L=r:i.R=r:n._=r,r.U=i,e.U=r,e.L=r.R,e.L&&(e.L.U=e),r.R=e}function or(n){for(;n.L;)n=n.L;return n}function ar(n,t){var e,r,i,u=n.sort(lr).pop();for(il=[],ul=new Array(n.length),ol=new er,ll=new er;;)if(i=al,u&&(!i||u.y<i.y||u.y===i.y&&u.x<i.x))u.x===e&&u.y===r||(ul[u.i]=new Ye(u),He(u),e=u.x,r=u.y),u=n.pop();else{if(!i)break;Fe(i.arc)}t&&(We(t),Ze(t));var o={cells:ul,edges:il};return ol=ll=il=ul=null,o}function lr(n,t){return t.y-n.y||t.x-n.x}function cr(n,t,e){return(n.x-e.x)*(t.y-n.y)-(n.x-t.x)*(e.y-n.y)}function fr(n){return n.x}function sr(n){return n.y}function hr(){return{leaf:!0,nodes:[],point:null,x:null,y:null}}function pr(n,t,e,r,i,u){if(!n(t,e,r,i,u)){var o=.5*(e+i),a=.5*(r+u),l=t.nodes;l[0]&&pr(n,l[0],e,r,o,a),l[1]&&pr(n,l[1],o,r,i,a),l[2]&&pr(n,l[2],e,a,o,u),l[3]&&pr(n,l[3],o,a,i,u)}}function gr(n,t,e,r,i,u,o){var a,l=1/0;return function c(n,f,s,h,p){if(!(f>u||s>o||r>h||i>p)){if(g=n.point){var g,v=t-n.x,d=e-n.y,y=v*v+d*d;if(l>y){var m=Math.sqrt(l=y);r=t-m,i=e-m,u=t+m,o=e+m,a=g}}for(var M=n.nodes,x=.5*(f+h),b=.5*(s+p),_=t>=x,w=e>=b,S=w<<1|_,k=S+4;k>S;++S)if(n=M[3&S])switch(3&S){case 0:c(n,f,s,x,b);break;case 1:c(n,x,s,h,b);break;case 2:c(n,f,b,x,p);break;case 3:c(n,x,b,h,p)}}}(n,r,i,u,o),a}function vr(n,t){n=ao.rgb(n),t=ao.rgb(t);var e=n.r,r=n.g,i=n.b,u=t.r-e,o=t.g-r,a=t.b-i;return function(n){return"#"+bn(Math.round(e+u*n))+bn(Math.round(r+o*n))+bn(Math.round(i+a*n))}}function dr(n,t){var e,r={},i={};for(e in n)e in t?r[e]=Mr(n[e],t[e]):i[e]=n[e];for(e in t)e in n||(i[e]=t[e]);return function(n){for(e in r)i[e]=r[e](n);return i}}function yr(n,t){return n=+n,t=+t,function(e){return n*(1-e)+t*e}}function mr(n,t){var e,r,i,u=hl.lastIndex=pl.lastIndex=0,o=-1,a=[],l=[];for(n+="",t+="";(e=hl.exec(n))&&(r=pl.exec(t));)(i=r.index)>u&&(i=t.slice(u,i),a[o]?a[o]+=i:a[++o]=i),(e=e[0])===(r=r[0])?a[o]?a[o]+=r:a[++o]=r:(a[++o]=null,l.push({i:o,x:yr(e,r)})),u=pl.lastIndex;return u<t.length&&(i=t.slice(u),a[o]?a[o]+=i:a[++o]=i),a.length<2?l[0]?(t=l[0].x,function(n){return t(n)+""}):function(){return t}:(t=l.length,function(n){for(var e,r=0;t>r;++r)a[(e=l[r]).i]=e.x(n);return a.join("")})}function Mr(n,t){for(var e,r=ao.interpolators.length;--r>=0&&!(e=ao.interpolators[r](n,t)););return e}function xr(n,t){var e,r=[],i=[],u=n.length,o=t.length,a=Math.min(n.length,t.length);for(e=0;a>e;++e)r.push(Mr(n[e],t[e]));for(;u>e;++e)i[e]=n[e];for(;o>e;++e)i[e]=t[e];return function(n){for(e=0;a>e;++e)i[e]=r[e](n);return i}}function br(n){return function(t){return 0>=t?0:t>=1?1:n(t)}}function _r(n){return function(t){return 1-n(1-t)}}function wr(n){return function(t){return.5*(.5>t?n(2*t):2-n(2-2*t))}}function Sr(n){return n*n}function kr(n){return n*n*n}function Nr(n){if(0>=n)return 0;if(n>=1)return 1;var t=n*n,e=t*n;return 4*(.5>n?e:3*(n-t)+e-.75)}function Er(n){return function(t){return Math.pow(t,n)}}function Ar(n){return 1-Math.cos(n*Io)}function Cr(n){return Math.pow(2,10*(n-1))}function zr(n){return 1-Math.sqrt(1-n*n)}function Lr(n,t){var e;return arguments.length<2&&(t=.45),arguments.length?e=t/Ho*Math.asin(1/n):(n=1,e=t/4),function(r){return 1+n*Math.pow(2,-10*r)*Math.sin((r-e)*Ho/t)}}function qr(n){return n||(n=1.70158),function(t){return t*t*((n+1)*t-n)}}function Tr(n){return 1/2.75>n?7.5625*n*n:2/2.75>n?7.5625*(n-=1.5/2.75)*n+.75:2.5/2.75>n?7.5625*(n-=2.25/2.75)*n+.9375:7.5625*(n-=2.625/2.75)*n+.984375}function Rr(n,t){n=ao.hcl(n),t=ao.hcl(t);var e=n.h,r=n.c,i=n.l,u=t.h-e,o=t.c-r,a=t.l-i;return isNaN(o)&&(o=0,r=isNaN(r)?t.c:r),isNaN(u)?(u=0,e=isNaN(e)?t.h:e):u>180?u-=360:-180>u&&(u+=360),function(n){return sn(e+u*n,r+o*n,i+a*n)+""}}function Dr(n,t){n=ao.hsl(n),t=ao.hsl(t);var e=n.h,r=n.s,i=n.l,u=t.h-e,o=t.s-r,a=t.l-i;return isNaN(o)&&(o=0,r=isNaN(r)?t.s:r),isNaN(u)?(u=0,e=isNaN(e)?t.h:e):u>180?u-=360:-180>u&&(u+=360),function(n){return cn(e+u*n,r+o*n,i+a*n)+""}}function Pr(n,t){n=ao.lab(n),t=ao.lab(t);var e=n.l,r=n.a,i=n.b,u=t.l-e,o=t.a-r,a=t.b-i;return function(n){return pn(e+u*n,r+o*n,i+a*n)+""}}function Ur(n,t){return t-=n,function(e){return Math.round(n+t*e)}}function jr(n){var t=[n.a,n.b],e=[n.c,n.d],r=Hr(t),i=Fr(t,e),u=Hr(Or(e,t,-i))||0;t[0]*e[1]<e[0]*t[1]&&(t[0]*=-1,t[1]*=-1,r*=-1,i*=-1),this.rotate=(r?Math.atan2(t[1],t[0]):Math.atan2(-e[0],e[1]))*Zo,this.translate=[n.e,n.f],this.scale=[r,u],this.skew=u?Math.atan2(i,u)*Zo:0}function Fr(n,t){return n[0]*t[0]+n[1]*t[1]}function Hr(n){var t=Math.sqrt(Fr(n,n));return t&&(n[0]/=t,n[1]/=t),t}function Or(n,t,e){return n[0]+=e*t[0],n[1]+=e*t[1],n}function Ir(n){return n.length?n.pop()+",":""}function Yr(n,t,e,r){if(n[0]!==t[0]||n[1]!==t[1]){var i=e.push("translate(",null,",",null,")");r.push({i:i-4,x:yr(n[0],t[0])},{i:i-2,x:yr(n[1],t[1])})}else(t[0]||t[1])&&e.push("translate("+t+")")}function Zr(n,t,e,r){n!==t?(n-t>180?t+=360:t-n>180&&(n+=360),r.push({i:e.push(Ir(e)+"rotate(",null,")")-2,x:yr(n,t)})):t&&e.push(Ir(e)+"rotate("+t+")")}function Vr(n,t,e,r){n!==t?r.push({i:e.push(Ir(e)+"skewX(",null,")")-2,x:yr(n,t)}):t&&e.push(Ir(e)+"skewX("+t+")")}function Xr(n,t,e,r){if(n[0]!==t[0]||n[1]!==t[1]){var i=e.push(Ir(e)+"scale(",null,",",null,")");r.push({i:i-4,x:yr(n[0],t[0])},{i:i-2,x:yr(n[1],t[1])})}else 1===t[0]&&1===t[1]||e.push(Ir(e)+"scale("+t+")")}function $r(n,t){var e=[],r=[];return n=ao.transform(n),t=ao.transform(t),Yr(n.translate,t.translate,e,r),Zr(n.rotate,t.rotate,e,r),Vr(n.skew,t.skew,e,r),Xr(n.scale,t.scale,e,r),n=t=null,function(n){for(var t,i=-1,u=r.length;++i<u;)e[(t=r[i]).i]=t.x(n);return e.join("")}}function Br(n,t){return t=(t-=n=+n)||1/t,function(e){return(e-n)/t}}function Wr(n,t){return t=(t-=n=+n)||1/t,function(e){return Math.max(0,Math.min(1,(e-n)/t))}}function Jr(n){for(var t=n.source,e=n.target,r=Kr(t,e),i=[t];t!==r;)t=t.parent,i.push(t);for(var u=i.length;e!==r;)i.splice(u,0,e),e=e.parent;return i}function Gr(n){for(var t=[],e=n.parent;null!=e;)t.push(n),n=e,e=e.parent;return t.push(n),t}function Kr(n,t){if(n===t)return n;for(var e=Gr(n),r=Gr(t),i=e.pop(),u=r.pop(),o=null;i===u;)o=i,i=e.pop(),u=r.pop();return o}function Qr(n){n.fixed|=2}function ni(n){n.fixed&=-7}function ti(n){n.fixed|=4,n.px=n.x,n.py=n.y}function ei(n){n.fixed&=-5}function ri(n,t,e){var r=0,i=0;if(n.charge=0,!n.leaf)for(var u,o=n.nodes,a=o.length,l=-1;++l<a;)u=o[l],null!=u&&(ri(u,t,e),n.charge+=u.charge,r+=u.charge*u.cx,i+=u.charge*u.cy);if(n.point){n.leaf||(n.point.x+=Math.random()-.5,n.point.y+=Math.random()-.5);var c=t*e[n.point.index];n.charge+=n.pointCharge=c,r+=c*n.point.x,i+=c*n.point.y}n.cx=r/n.charge,n.cy=i/n.charge}function ii(n,t){return ao.rebind(n,t,"sort","children","value"),n.nodes=n,n.links=fi,n}function ui(n,t){for(var e=[n];null!=(n=e.pop());)if(t(n),(i=n.children)&&(r=i.length))for(var r,i;--r>=0;)e.push(i[r])}function oi(n,t){for(var e=[n],r=[];null!=(n=e.pop());)if(r.push(n),(u=n.children)&&(i=u.length))for(var i,u,o=-1;++o<i;)e.push(u[o]);for(;null!=(n=r.pop());)t(n)}function ai(n){return n.children}function li(n){return n.value}function ci(n,t){return t.value-n.value}function fi(n){return ao.merge(n.map(function(n){return(n.children||[]).map(function(t){return{source:n,target:t}})}))}function si(n){return n.x}function hi(n){return n.y}function pi(n,t,e){n.y0=t,n.y=e}function gi(n){return ao.range(n.length)}function vi(n){for(var t=-1,e=n[0].length,r=[];++t<e;)r[t]=0;return r}function di(n){for(var t,e=1,r=0,i=n[0][1],u=n.length;u>e;++e)(t=n[e][1])>i&&(r=e,i=t);return r}function yi(n){return n.reduce(mi,0)}function mi(n,t){return n+t[1]}function Mi(n,t){return xi(n,Math.ceil(Math.log(t.length)/Math.LN2+1))}function xi(n,t){for(var e=-1,r=+n[0],i=(n[1]-r)/t,u=[];++e<=t;)u[e]=i*e+r;return u}function bi(n){return[ao.min(n),ao.max(n)]}function _i(n,t){return n.value-t.value}function wi(n,t){var e=n._pack_next;n._pack_next=t,t._pack_prev=n,t._pack_next=e,e._pack_prev=t}function Si(n,t){n._pack_next=t,t._pack_prev=n}function ki(n,t){var e=t.x-n.x,r=t.y-n.y,i=n.r+t.r;return.999*i*i>e*e+r*r}function Ni(n){function t(n){f=Math.min(n.x-n.r,f),s=Math.max(n.x+n.r,s),h=Math.min(n.y-n.r,h),p=Math.max(n.y+n.r,p)}if((e=n.children)&&(c=e.length)){var e,r,i,u,o,a,l,c,f=1/0,s=-(1/0),h=1/0,p=-(1/0);if(e.forEach(Ei),r=e[0],r.x=-r.r,r.y=0,t(r),c>1&&(i=e[1],i.x=i.r,i.y=0,t(i),c>2))for(u=e[2],zi(r,i,u),t(u),wi(r,u),r._pack_prev=u,wi(u,i),i=r._pack_next,o=3;c>o;o++){zi(r,i,u=e[o]);var g=0,v=1,d=1;for(a=i._pack_next;a!==i;a=a._pack_next,v++)if(ki(a,u)){g=1;break}if(1==g)for(l=r._pack_prev;l!==a._pack_prev&&!ki(l,u);l=l._pack_prev,d++);g?(d>v||v==d&&i.r<r.r?Si(r,i=a):Si(r=l,i),o--):(wi(r,u),i=u,t(u))}var y=(f+s)/2,m=(h+p)/2,M=0;for(o=0;c>o;o++)u=e[o],u.x-=y,u.y-=m,M=Math.max(M,u.r+Math.sqrt(u.x*u.x+u.y*u.y));n.r=M,e.forEach(Ai)}}function Ei(n){n._pack_next=n._pack_prev=n}function Ai(n){delete n._pack_next,delete n._pack_prev}function Ci(n,t,e,r){var i=n.children;if(n.x=t+=r*n.x,n.y=e+=r*n.y,n.r*=r,i)for(var u=-1,o=i.length;++u<o;)Ci(i[u],t,e,r)}function zi(n,t,e){var r=n.r+e.r,i=t.x-n.x,u=t.y-n.y;if(r&&(i||u)){var o=t.r+e.r,a=i*i+u*u;o*=o,r*=r;var l=.5+(r-o)/(2*a),c=Math.sqrt(Math.max(0,2*o*(r+a)-(r-=a)*r-o*o))/(2*a);e.x=n.x+l*i+c*u,e.y=n.y+l*u-c*i}else e.x=n.x+r,e.y=n.y}function Li(n,t){return n.parent==t.parent?1:2}function qi(n){var t=n.children;return t.length?t[0]:n.t}function Ti(n){var t,e=n.children;return(t=e.length)?e[t-1]:n.t}function Ri(n,t,e){var r=e/(t.i-n.i);t.c-=r,t.s+=e,n.c+=r,t.z+=e,t.m+=e}function Di(n){for(var t,e=0,r=0,i=n.children,u=i.length;--u>=0;)t=i[u],t.z+=e,t.m+=e,e+=t.s+(r+=t.c)}function Pi(n,t,e){return n.a.parent===t.parent?n.a:e}function Ui(n){return 1+ao.max(n,function(n){return n.y})}function ji(n){return n.reduce(function(n,t){return n+t.x},0)/n.length}function Fi(n){var t=n.children;return t&&t.length?Fi(t[0]):n}function Hi(n){var t,e=n.children;return e&&(t=e.length)?Hi(e[t-1]):n}function Oi(n){return{x:n.x,y:n.y,dx:n.dx,dy:n.dy}}function Ii(n,t){var e=n.x+t[3],r=n.y+t[0],i=n.dx-t[1]-t[3],u=n.dy-t[0]-t[2];return 0>i&&(e+=i/2,i=0),0>u&&(r+=u/2,u=0),{x:e,y:r,dx:i,dy:u}}function Yi(n){var t=n[0],e=n[n.length-1];return e>t?[t,e]:[e,t]}function Zi(n){return n.rangeExtent?n.rangeExtent():Yi(n.range())}function Vi(n,t,e,r){var i=e(n[0],n[1]),u=r(t[0],t[1]);return function(n){return u(i(n))}}function Xi(n,t){var e,r=0,i=n.length-1,u=n[r],o=n[i];return u>o&&(e=r,r=i,i=e,e=u,u=o,o=e),n[r]=t.floor(u),n[i]=t.ceil(o),n}function $i(n){return n?{floor:function(t){return Math.floor(t/n)*n},ceil:function(t){return Math.ceil(t/n)*n}}:Sl}function Bi(n,t,e,r){var i=[],u=[],o=0,a=Math.min(n.length,t.length)-1;for(n[a]<n[0]&&(n=n.slice().reverse(),t=t.slice().reverse());++o<=a;)i.push(e(n[o-1],n[o])),u.push(r(t[o-1],t[o]));return function(t){var e=ao.bisect(n,t,1,a)-1;return u[e](i[e](t))}}function Wi(n,t,e,r){function i(){var i=Math.min(n.length,t.length)>2?Bi:Vi,l=r?Wr:Br;return o=i(n,t,l,e),a=i(t,n,l,Mr),u}function u(n){return o(n)}var o,a;return u.invert=function(n){return a(n)},u.domain=function(t){return arguments.length?(n=t.map(Number),i()):n},u.range=function(n){return arguments.length?(t=n,i()):t},u.rangeRound=function(n){return u.range(n).interpolate(Ur)},u.clamp=function(n){return arguments.length?(r=n,i()):r},u.interpolate=function(n){return arguments.length?(e=n,i()):e},u.ticks=function(t){return Qi(n,t)},u.tickFormat=function(t,e){return nu(n,t,e)},u.nice=function(t){return Gi(n,t),i()},u.copy=function(){return Wi(n,t,e,r)},i()}function Ji(n,t){return ao.rebind(n,t,"range","rangeRound","interpolate","clamp")}function Gi(n,t){return Xi(n,$i(Ki(n,t)[2])),Xi(n,$i(Ki(n,t)[2])),n}function Ki(n,t){null==t&&(t=10);var e=Yi(n),r=e[1]-e[0],i=Math.pow(10,Math.floor(Math.log(r/t)/Math.LN10)),u=t/r*i;return.15>=u?i*=10:.35>=u?i*=5:.75>=u&&(i*=2),e[0]=Math.ceil(e[0]/i)*i,e[1]=Math.floor(e[1]/i)*i+.5*i,e[2]=i,e}function Qi(n,t){return ao.range.apply(ao,Ki(n,t))}function nu(n,t,e){var r=Ki(n,t);if(e){var i=ha.exec(e);if(i.shift(),"s"===i[8]){var u=ao.formatPrefix(Math.max(xo(r[0]),xo(r[1])));return i[7]||(i[7]="."+tu(u.scale(r[2]))),i[8]="f",e=ao.format(i.join("")),function(n){return e(u.scale(n))+u.symbol}}i[7]||(i[7]="."+eu(i[8],r)),e=i.join("")}else e=",."+tu(r[2])+"f";return ao.format(e)}function tu(n){return-Math.floor(Math.log(n)/Math.LN10+.01)}function eu(n,t){var e=tu(t[2]);return n in kl?Math.abs(e-tu(Math.max(xo(t[0]),xo(t[1]))))+ +("e"!==n):e-2*("%"===n)}function ru(n,t,e,r){function i(n){return(e?Math.log(0>n?0:n):-Math.log(n>0?0:-n))/Math.log(t)}function u(n){return e?Math.pow(t,n):-Math.pow(t,-n)}function o(t){return n(i(t))}return o.invert=function(t){return u(n.invert(t))},o.domain=function(t){return arguments.length?(e=t[0]>=0,n.domain((r=t.map(Number)).map(i)),o):r},o.base=function(e){return arguments.length?(t=+e,n.domain(r.map(i)),o):t},o.nice=function(){var t=Xi(r.map(i),e?Math:El);return n.domain(t),r=t.map(u),o},o.ticks=function(){var n=Yi(r),o=[],a=n[0],l=n[1],c=Math.floor(i(a)),f=Math.ceil(i(l)),s=t%1?2:t;if(isFinite(f-c)){if(e){for(;f>c;c++)for(var h=1;s>h;h++)o.push(u(c)*h);o.push(u(c))}else for(o.push(u(c));c++<f;)for(var h=s-1;h>0;h--)o.push(u(c)*h);for(c=0;o[c]<a;c++);for(f=o.length;o[f-1]>l;f--);o=o.slice(c,f)}return o},o.tickFormat=function(n,e){if(!arguments.length)return Nl;arguments.length<2?e=Nl:"function"!=typeof e&&(e=ao.format(e));var r=Math.max(1,t*n/o.ticks().length);return function(n){var o=n/u(Math.round(i(n)));return t-.5>o*t&&(o*=t),r>=o?e(n):""}},o.copy=function(){return ru(n.copy(),t,e,r)},Ji(o,n)}function iu(n,t,e){function r(t){return n(i(t))}var i=uu(t),u=uu(1/t);return r.invert=function(t){return u(n.invert(t))},r.domain=function(t){return arguments.length?(n.domain((e=t.map(Number)).map(i)),r):e},r.ticks=function(n){return Qi(e,n)},r.tickFormat=function(n,t){return nu(e,n,t)},r.nice=function(n){return r.domain(Gi(e,n))},r.exponent=function(o){return arguments.length?(i=uu(t=o),u=uu(1/t),n.domain(e.map(i)),r):t},r.copy=function(){return iu(n.copy(),t,e)},Ji(r,n)}function uu(n){return function(t){return 0>t?-Math.pow(-t,n):Math.pow(t,n)}}function ou(n,t){function e(e){return u[((i.get(e)||("range"===t.t?i.set(e,n.push(e)):NaN))-1)%u.length]}function r(t,e){return ao.range(n.length).map(function(n){return t+e*n})}var i,u,o;return e.domain=function(r){if(!arguments.length)return n;n=[],i=new c;for(var u,o=-1,a=r.length;++o<a;)i.has(u=r[o])||i.set(u,n.push(u));return e[t.t].apply(e,t.a)},e.range=function(n){return arguments.length?(u=n,o=0,t={t:"range",a:arguments},e):u},e.rangePoints=function(i,a){arguments.length<2&&(a=0);var l=i[0],c=i[1],f=n.length<2?(l=(l+c)/2,0):(c-l)/(n.length-1+a);return u=r(l+f*a/2,f),o=0,t={t:"rangePoints",a:arguments},e},e.rangeRoundPoints=function(i,a){arguments.length<2&&(a=0);var l=i[0],c=i[1],f=n.length<2?(l=c=Math.round((l+c)/2),0):(c-l)/(n.length-1+a)|0;return u=r(l+Math.round(f*a/2+(c-l-(n.length-1+a)*f)/2),f),o=0,t={t:"rangeRoundPoints",a:arguments},e},e.rangeBands=function(i,a,l){arguments.length<2&&(a=0),arguments.length<3&&(l=a);var c=i[1]<i[0],f=i[c-0],s=i[1-c],h=(s-f)/(n.length-a+2*l);return u=r(f+h*l,h),c&&u.reverse(),o=h*(1-a),t={t:"rangeBands",a:arguments},e},e.rangeRoundBands=function(i,a,l){arguments.length<2&&(a=0),arguments.length<3&&(l=a);var c=i[1]<i[0],f=i[c-0],s=i[1-c],h=Math.floor((s-f)/(n.length-a+2*l));return u=r(f+Math.round((s-f-(n.length-a)*h)/2),h),c&&u.reverse(),o=Math.round(h*(1-a)),t={t:"rangeRoundBands",a:arguments},e},e.rangeBand=function(){return o},e.rangeExtent=function(){return Yi(t.a[0])},e.copy=function(){return ou(n,t)},e.domain(n)}function au(n,t){function u(){var e=0,r=t.length;for(a=[];++e<r;)a[e-1]=ao.quantile(n,e/r);return o}function o(n){return isNaN(n=+n)?void 0:t[ao.bisect(a,n)]}var a;return o.domain=function(t){return arguments.length?(n=t.map(r).filter(i).sort(e),u()):n},o.range=function(n){return arguments.length?(t=n,u()):t},o.quantiles=function(){return a},o.invertExtent=function(e){return e=t.indexOf(e),0>e?[NaN,NaN]:[e>0?a[e-1]:n[0],e<a.length?a[e]:n[n.length-1]]},o.copy=function(){return au(n,t)},u()}function lu(n,t,e){function r(t){return e[Math.max(0,Math.min(o,Math.floor(u*(t-n))))]}function i(){return u=e.length/(t-n),o=e.length-1,r}var u,o;return r.domain=function(e){return arguments.length?(n=+e[0],t=+e[e.length-1],i()):[n,t]},r.range=function(n){return arguments.length?(e=n,i()):e},r.invertExtent=function(t){return t=e.indexOf(t),t=0>t?NaN:t/u+n,[t,t+1/u]},r.copy=function(){return lu(n,t,e)},i()}function cu(n,t){function e(e){return e>=e?t[ao.bisect(n,e)]:void 0}return e.domain=function(t){return arguments.length?(n=t,e):n},e.range=function(n){return arguments.length?(t=n,e):t},e.invertExtent=function(e){return e=t.indexOf(e),[n[e-1],n[e]]},e.copy=function(){return cu(n,t)},e}function fu(n){function t(n){return+n}return t.invert=t,t.domain=t.range=function(e){return arguments.length?(n=e.map(t),t):n},t.ticks=function(t){return Qi(n,t)},t.tickFormat=function(t,e){return nu(n,t,e)},t.copy=function(){return fu(n)},t}function su(){return 0}function hu(n){return n.innerRadius}function pu(n){return n.outerRadius}function gu(n){return n.startAngle}function vu(n){return n.endAngle}function du(n){return n&&n.padAngle}function yu(n,t,e,r){return(n-e)*t-(t-r)*n>0?0:1}function mu(n,t,e,r,i){var u=n[0]-t[0],o=n[1]-t[1],a=(i?r:-r)/Math.sqrt(u*u+o*o),l=a*o,c=-a*u,f=n[0]+l,s=n[1]+c,h=t[0]+l,p=t[1]+c,g=(f+h)/2,v=(s+p)/2,d=h-f,y=p-s,m=d*d+y*y,M=e-r,x=f*p-h*s,b=(0>y?-1:1)*Math.sqrt(Math.max(0,M*M*m-x*x)),_=(x*y-d*b)/m,w=(-x*d-y*b)/m,S=(x*y+d*b)/m,k=(-x*d+y*b)/m,N=_-g,E=w-v,A=S-g,C=k-v;return N*N+E*E>A*A+C*C&&(_=S,w=k),[[_-l,w-c],[_*e/M,w*e/M]]}function Mu(n){function t(t){function o(){c.push("M",u(n(f),a))}for(var l,c=[],f=[],s=-1,h=t.length,p=En(e),g=En(r);++s<h;)i.call(this,l=t[s],s)?f.push([+p.call(this,l,s),+g.call(this,l,s)]):f.length&&(o(),f=[]);return f.length&&o(),c.length?c.join(""):null}var e=Ce,r=ze,i=zt,u=xu,o=u.key,a=.7;return t.x=function(n){return arguments.length?(e=n,t):e},t.y=function(n){return arguments.length?(r=n,t):r},t.defined=function(n){return arguments.length?(i=n,t):i},t.interpolate=function(n){return arguments.length?(o="function"==typeof n?u=n:(u=Tl.get(n)||xu).key,t):o},t.tension=function(n){return arguments.length?(a=n,t):a},t}function xu(n){return n.length>1?n.join("L"):n+"Z"}function bu(n){return n.join("L")+"Z"}function _u(n){for(var t=0,e=n.length,r=n[0],i=[r[0],",",r[1]];++t<e;)i.push("H",(r[0]+(r=n[t])[0])/2,"V",r[1]);return e>1&&i.push("H",r[0]),i.join("")}function wu(n){for(var t=0,e=n.length,r=n[0],i=[r[0],",",r[1]];++t<e;)i.push("V",(r=n[t])[1],"H",r[0]);return i.join("")}function Su(n){for(var t=0,e=n.length,r=n[0],i=[r[0],",",r[1]];++t<e;)i.push("H",(r=n[t])[0],"V",r[1]);return i.join("")}function ku(n,t){return n.length<4?xu(n):n[1]+Au(n.slice(1,-1),Cu(n,t))}function Nu(n,t){return n.length<3?bu(n):n[0]+Au((n.push(n[0]),n),Cu([n[n.length-2]].concat(n,[n[1]]),t))}function Eu(n,t){return n.length<3?xu(n):n[0]+Au(n,Cu(n,t))}function Au(n,t){if(t.length<1||n.length!=t.length&&n.length!=t.length+2)return xu(n);var e=n.length!=t.length,r="",i=n[0],u=n[1],o=t[0],a=o,l=1;if(e&&(r+="Q"+(u[0]-2*o[0]/3)+","+(u[1]-2*o[1]/3)+","+u[0]+","+u[1],i=n[1],l=2),t.length>1){a=t[1],u=n[l],l++,r+="C"+(i[0]+o[0])+","+(i[1]+o[1])+","+(u[0]-a[0])+","+(u[1]-a[1])+","+u[0]+","+u[1];for(var c=2;c<t.length;c++,l++)u=n[l],a=t[c],r+="S"+(u[0]-a[0])+","+(u[1]-a[1])+","+u[0]+","+u[1]}if(e){var f=n[l];r+="Q"+(u[0]+2*a[0]/3)+","+(u[1]+2*a[1]/3)+","+f[0]+","+f[1]}return r}function Cu(n,t){for(var e,r=[],i=(1-t)/2,u=n[0],o=n[1],a=1,l=n.length;++a<l;)e=u,u=o,o=n[a],r.push([i*(o[0]-e[0]),i*(o[1]-e[1])]);return r}function zu(n){if(n.length<3)return xu(n);var t=1,e=n.length,r=n[0],i=r[0],u=r[1],o=[i,i,i,(r=n[1])[0]],a=[u,u,u,r[1]],l=[i,",",u,"L",Ru(Pl,o),",",Ru(Pl,a)];for(n.push(n[e-1]);++t<=e;)r=n[t],o.shift(),o.push(r[0]),a.shift(),a.push(r[1]),Du(l,o,a);return n.pop(),l.push("L",r),l.join("")}function Lu(n){if(n.length<4)return xu(n);for(var t,e=[],r=-1,i=n.length,u=[0],o=[0];++r<3;)t=n[r],u.push(t[0]),o.push(t[1]);for(e.push(Ru(Pl,u)+","+Ru(Pl,o)),--r;++r<i;)t=n[r],u.shift(),u.push(t[0]),o.shift(),o.push(t[1]),Du(e,u,o);return e.join("")}function qu(n){for(var t,e,r=-1,i=n.length,u=i+4,o=[],a=[];++r<4;)e=n[r%i],o.push(e[0]),a.push(e[1]);for(t=[Ru(Pl,o),",",Ru(Pl,a)],--r;++r<u;)e=n[r%i],o.shift(),o.push(e[0]),a.shift(),a.push(e[1]),Du(t,o,a);return t.join("")}function Tu(n,t){var e=n.length-1;if(e)for(var r,i,u=n[0][0],o=n[0][1],a=n[e][0]-u,l=n[e][1]-o,c=-1;++c<=e;)r=n[c],i=c/e,r[0]=t*r[0]+(1-t)*(u+i*a),r[1]=t*r[1]+(1-t)*(o+i*l);return zu(n)}function Ru(n,t){return n[0]*t[0]+n[1]*t[1]+n[2]*t[2]+n[3]*t[3]}function Du(n,t,e){n.push("C",Ru(Rl,t),",",Ru(Rl,e),",",Ru(Dl,t),",",Ru(Dl,e),",",Ru(Pl,t),",",Ru(Pl,e))}function Pu(n,t){return(t[1]-n[1])/(t[0]-n[0])}function Uu(n){for(var t=0,e=n.length-1,r=[],i=n[0],u=n[1],o=r[0]=Pu(i,u);++t<e;)r[t]=(o+(o=Pu(i=u,u=n[t+1])))/2;return r[t]=o,r}function ju(n){for(var t,e,r,i,u=[],o=Uu(n),a=-1,l=n.length-1;++a<l;)t=Pu(n[a],n[a+1]),xo(t)<Uo?o[a]=o[a+1]=0:(e=o[a]/t,r=o[a+1]/t,i=e*e+r*r,i>9&&(i=3*t/Math.sqrt(i),o[a]=i*e,o[a+1]=i*r));for(a=-1;++a<=l;)i=(n[Math.min(l,a+1)][0]-n[Math.max(0,a-1)][0])/(6*(1+o[a]*o[a])),u.push([i||0,o[a]*i||0]);return u}function Fu(n){return n.length<3?xu(n):n[0]+Au(n,ju(n))}function Hu(n){for(var t,e,r,i=-1,u=n.length;++i<u;)t=n[i],e=t[0],r=t[1]-Io,t[0]=e*Math.cos(r),t[1]=e*Math.sin(r);return n}function Ou(n){function t(t){function l(){v.push("M",a(n(y),s),f,c(n(d.reverse()),s),"Z")}for(var h,p,g,v=[],d=[],y=[],m=-1,M=t.length,x=En(e),b=En(i),_=e===r?function(){
+
+vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/jquery.min.js:
+  1  /*! jQuery v3.6.1 | (c) OpenJS Foundation and other contributors | jquery.org/license */
+  2: ⟪ 45526 characters skipped ⟫gationStopped=we,e&&!this.isSimulated&&e.stopImmediatePropagation(),this.stopPropagation()}},S.each({altKey:!0,bubbles:!0,cancelable:!0,changedTouches:!0,ctrlKey:!0,detail:!0,eventPhase:!0,metaKey:!0,pageX:!0,pageY:!0,shiftKey:!0,view:!0,"char":!0,code:!0,charCode:!0,key:!0,keyCode:!0,button:!0,buttons:!0,clientX:!0,clientY:!0,offsetX:!0,offsetY:!0,pointerId:!0,pointerType:!0,screenX:!0,screenY:!0,targetTouches:!0,toElement:!0,touches:!0,which:!0},S.event.addProp),S.each({focus:"focusin",blur:"focusout"},function(t,e){S.event.special[t]={setup:function(){return Se(this,t,Ce),!1},trigger:function(){return Se(this,t),!0},_default:function(e){return Y.get(e.target,t)},delegateType:e}}),S.each({mouseenter:"mouseover",mouseleave:"mouseout",pointerenter:"pointerover",pointerleave:"pointerout"},function(e,i){S.event.special[e]={delegateType:i,bindType:i,handle:function(e){var t,n=e.relatedTarget,r=e.handleObj;return n&&(n===this||S.contains(this,n))||(e.type=r.origType,t=r.handler.apply(this,arguments),e.type=i),t}}}),S.fn.extend({on:function(e,t,n,r){return Ee(this,e,t,n,r)},one:function(e,t,n,r){return Ee(this,e,t,n,r,1)},off:function(e,t,n){var r,i;if(e&&e.preventDefault&&e.handleObj)return r=e⟪ 39305 characters skipped ⟫eturn void 0===t?this:this.each(function(e){S.offset.setOffset(this,t,e)});var e,n,r=this[0];return r?r.getClientRects().length?(e=r.getBoundingClientRect(),n=r.ownerDocument.defaultView,{top:e.top+n.pageYOffset,left:e.left+n.pageXOffset}):{top:0,left:0}:void 0},position:function(){if(this[0]){var e,t,n,r=this[0],i={top:0,left:0};if("fixed"===S.css(r,"position"))t=r.getBoundingClientRect();else{t=this.offset(),n=r.ownerDocument,e=r.offsetParent||n.documentElement;while(e&&(e===n.body||e===n.documentElement)&&"static"===S.css(e,"position"))e=e.parentNode;e&&e!==r&&1===e.nodeType&&((i=S(e).offset()).top+=S.css(e,"borderTopWidth",!0),i.left+=S.css(e,"borderLeftWidth",!0))}return{top:t.top-i.top-S.css(r,"marginTop",!0),left:t.left-i.left-S.css(r,"marginLeft",!0)}}},offsetParent:function(){return this.map(function(){var e=this.offsetParent;while(e&&"static"===S.css(e,"position"))e=e.offsetParent;return e||re})}}),S.each({scrollLeft:"pageXOffset",scrollTop:"pageYOffset"},function(t,i){var o="pageYOffset"===i;S.fn[t]=function(e){return B(this,function(e,t,n){var r;if(x(e)?r=e:9===e.nodeType&&(r=e.defaultView),void 0===n)return r?r[i]:e[t];r?r.scrollTo(o?r.pageXOffset:n,o?n:r.pageYOffset):e[t]=n},t,e,arguments.length)}}),S.each(["top","left"],function(e,n){S.cssHooks[n]=_e(v.pixelPosition,function(e,t){if(t)return t=Be(e,n),Pe.test(t)?S(e).position()[n]+"px":t})}),S.each({Height:"height",Width:"width"},function(a,s){S.each({padding:"inner"+a,content:s,"":"outer"+a},function(r,o){S.fn[o]=function(e,t){var n=arguments.length&&(r||"boolean"!=typeof e),i=r||(!0===e||!0===t?"margin":"border");return B(this,function(e,t,n){var r;return x(e)?0===o.indexOf("outer")?e["inner"+a]:e.document.documentElement["client"+a]:9===e.nodeType?(r=e.documentElement,Math.max(e.body["scroll"+a],r["scroll"+a],e.body["offset"+a],r["offset"+a],r["client"+a])):void 0===n?S.css(e,t,i):S.style(e,t,n,i)},s,n?e:void 0,n)}})}),S.each(["ajaxStart","ajaxStop","ajaxComplete","ajaxError","ajaxSuccess","ajaxSend"],function(e,t){S.fn[t]=function(e){return this.on(t,e)}}),S.fn.extend({bind:function(e,t,n){return this.on(e,null,t,n)},unbind:function(e,t){return this.off(e,null,t)},delegate:functio
+
+vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/nv.d3.min.js:
+  1  /* nvd3 version 1.8.1 (https://github.com/novus/nvd3) 2015-06-15 */
+  2: ⟪ 7447 characters skipped ⟫s=[a.series],!0}return!1},C=function(b){o&&a.dom.read(function(){var c,d,e=parseInt(o.offsetHeight,10),h=parseInt(o.offsetWidth,10),i=a.utils.windowSize().width,j=a.utils.windowSize().height,k=window.pageYOffset,p=window.pageXOffset;j=window.innerWidth>=document.body.scrollWidth?j:j-16,i=window.innerHeight>=document.body.scrollHeight?i:i-16;var r,t,u=function(a){var b=d;do isNaN(a.offsetTop)||(b+=a.offsetTop),a=a.offsetParent;while(a);return b},v=function(a){var b=c;do isNaN(a.offsetLeft)||(b+=a.offsetLeft),a=a.offsetParent;while(a);return b};switch(f){case"e":c=b[0]-h-g,d=b[1]-e/2,r=v(o),t=u(o),p>r&&(c=b[0]+g>p?b[0]+g:p-r+c),k>t&&(d=k-t+d),t+e>k+j&&(d=k+j-t+d-e);break;case"w":c=b[0]+g,d=b[1]-e/2,r=v(o),t=u(o),r+h>i&&(c=b[0]-h-g),k>t&&(d=k+5),t+e>k+j&&(d=k+j-t+d-e);break;case"n":c=b[0]-h/2-5,d=b[1]+g,r=v(o),t=u(o),p>r&&(c=p+5),r+h>i&&(c=c-h/2+5),t+e>k+j&&(d=k+j-t+d-e);break;case"s":c=b[0]-h/2,d=b[1]-e-g,r=v(o),t=u(o),p>r&&(c=p+5),r+h>i&&(c=c-h/2+5),k>t&&(d=k);break;case"none":c=b[0],d=b[1]-g,r=v(o),t=u(o)}c-=q.left,d-=q.top;var w=o.getBoundingClientRect(),k=window.pageYOffset||document.documentElement.scrollTop,p=window.pageXOffset||document.documentElement.scrollLeft,x="translate("+(w.left+p)+"px, "+(w.top+k)+"px)",y="translate("+c+"px, "+d+"px)",z=d3.interpolateString(x,y),A=n.style("opacity")<.1;l?n.transition().delay(m).duration(0).style("opacity",0):n.interrupt().transition().duration(A?0:s).styleTween("transform",function(){return z},"important").style("-webkit-transform",y).style("opacity",1)})};return d.nvPointerEventsClass=w,d.options=a.utils.optionsFunc.bind(d),d._options=Object.create({},{duration:{get:function(){return s},set:function(a){s=a}},gravity:{get:function(){return f},set:function(a){f=a}},distance:{get:function(){return g},set:function(a){g=a}},snapDistance:{get:function(){return h},set:function(a){h=a}},classes:{get:function(){return j},set:function(a){j=a}},chartContainer:{get:function(){return k},set:function(a){k=a}},fixedTop:{get:function(){return i},set:function(a){i=a}},enabled:{get:function(){return r},set:function(a){r=a}},hideDelay:{get:function(){return m},set:function
+  3: ⟪ 1664 characters skipped ⟫ver.tooltip",function(a){p.data(a).hidden(!1)}),e.dispatch.on("elementMouseout.tooltip",function(a){p.data(a).hidden(!0)}),e.dispatch.on("elementMousemove.tooltip",function(){p.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.dispatch=r,b.boxplot=e,b.xAxis=f,b.yAxis=g,b.tooltip=p,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{width:{get:function(){return i},set:function(a){i=a}},height:{get:function(){return j},set:function(a){j=a}},staggerLabels:{get:function(){return o},set:function(a){o=a}},showXAxis:{get:function(){return l},set:function(a){l=a}},showYAxis:{get:function(){return m},set:function(a){m=a}},tooltips:{get:function(){return tooltips},set:function(a){tooltips=a}},tooltipContent:{get:function(){return p},set:function(a){p=a}},noData:{get:function(){return q},set:function(a){q=a}},margin:{get:function(){return h},set:function(a){h.top=void 0!==a.top?a.top:h.top,h.right=void 0!==a.right?a.right:h.right,h.bottom=void 0!==a.bottom?a.bottom:h.bottom,h.left=void 0!==a.left?a.left:h.left}},duration:{get:function(){return s},set:function(a){s=a,t.reset(s),e.duration(s),f.duration(s),g.duration(s)}},color:{get:function(){return k},set:function(b){k=a.utils.getColor(b),e⟪ 6915 characters skipped ⟫abel,value:a.value,color:a.color},d.data(a).hidden(!1)}),c.dispatch.on("elementMouseout.tooltip",function(){d.hidden(!0)}),c.dispatch.on("elementMousemove.tooltip",function(){d.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.bullet=c,b.dispatch=p,b.tooltip=d,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{ranges:{get:function(){return h},set:function(a){h=a}},markers:{get:function(){return i},set:function(a){i=a}},measures:{get:function(){return j},set:function(a){j=a}},width:{get:function(){return k},set:function(a){k=a}},height:{get:function(){return l},set:function(a){l=a}},tickFormat:{get:function(){return m},set:function(a){m=a}},ticks:{get:function(){return n},set:function(a){n=a}},noData:{get:function(){return o},set:function(a){o=a}},tooltips:{get:function(){return d.enabled()},set:function(b){a.deprecated("tooltips","use chart.tooltip.enabled() instead"),d.enabled(!!b)}},tooltipContent:{get:function(){return d.contentGenerator()},set:function(b){a.deprecated("tooltipContent","use chart.tooltip.contentGenerator() instead"),d.contentGenerator(b)}},margin:{get:function(){return g},set:function(a){g.top=void 0!==a.top?a.top:g.top,g.right=void 0!==a.right?a.right:g.righ
+  4: ⟪ 1012 characters skipped ⟫alue:b.y()(a.data),color:a.color},h.data(a).hidden(!1)}),e.dispatch.on("elementMouseout.tooltip",function(){h.hidden(!0)}),e.dispatch.on("elementMousemove.tooltip",function(){h.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.dispatch=r,b.discretebar=e,b.xAxis=f,b.yAxis=g,b.tooltip=h,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{width:{get:function(){return j},set:function(a){j=a}},height:{get:function(){return k},set:function(a){k=a}},staggerLabels:{get:function(){return p},set:function(a){p=a}},showXAxis:{get:function(){return m},set:function(a){m=a}},showYAxis:{get:function(){return n},set:function(a){n=a}},noData:{get:function(){return q},set:function(a){q=a}},tooltips:{get:function(){return h.enabled()},set:function(b){a.deprecated("tooltips","use chart.tooltip.enabled() instead"),h.enabled(!!b)}},tooltipContent:{get:function(){return h.contentGenerator()},set:function(b){a.deprecated("tooltipContent","use chart.tooltip.contentGenerator() instead"),h.contentGenerator(b)}},margin:{get:function(){return i},set:function(a){i.top=void 0!==a.top?a.top:i.top,i.right=void 0!==a.right?a.right:i.right,i.bottom=void 0!==a.bottom?a.bottom:i.bottom,i.left=void 0!==a.left?a.left:i⟪ 16429 characters skipped ⟫alue:c.y()(a.data),color:a.color},k.data(a).hidden(!1)}),f.dispatch.on("elementMouseout.tooltip",function(){k.hidden(!0)}),f.dispatch.on("elementMousemove.tooltip",function(){k.position({top:d3.event.pageY,left:d3.event.pageX})()}),c.dispatch=x,c.bars=f,c.legend=i,c.xAxis=g,c.yAxis=h,c.interactiveLayer=j,c.tooltip=k,c.options=a.utils.optionsFunc.bind(c),c._options=Object.create({},{width:{get:function(){return n},set:function(a){n=a}},height:{get:function(){return o},set:function(a){o=a}},showLegend:{get:function(){return p},set:function(a){p=a}},showXAxis:{get:function(){return q},set:function(a){q=a}},showYAxis:{get:function(){return r},set:function(a){r=a}},defaultState:{get:function(){return v},set:function(a){v=a}},noData:{get:function(){return w},set:function(a){w=a}},tooltips:{get:function(){return k.enabled()},set:function(b){a.deprecated("tooltips","use chart.tooltip.enabled() instead"),k.enabled(!!b)}},tooltipContent:{get:function(){return k.contentGenerator()},set:function(b){a.deprecated("tooltipContent","use chart.tooltip.contentGenerator() instead"),k.contentGenerator(b)}},margin:{get:function(){return l},set:function(a){l.top=void 0!==a.top?a.top:l.top,l.right=void 0!==a.right?a.right:l
+  5: ⟪ 13553 characters skipped ⟫n(a,b){return p.tickFormat()(a,b)}).data(a).hidden(!1)}),l.dispatch.on("elementMouseout.tooltip",function(){v.hidden(!0)}),l.dispatch.on("elementMousemove.tooltip",function(){v.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.dispatch=K,b.legend=t,b.lines=j,b.lines2=k,b.bars=l,b.bars2=m,b.xAxis=n,b.x2Axis=o,b.y1Axis=p,b.y2Axis=q,b.y3Axis=r,b.y4Axis=s,b.tooltip=v,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{width:{get:function(){return y},set:function(a){y=a}},height:{get:function(){return z},set:function(a){z=a}},showLegend:{get:function(){return D},set:function(a){D=a}},brushExtent:{get:function(){return I},set:function(a){I=a}},noData:{get:function(){return J},set:function(a){J=a}},focusEnable:{get:function(){return E},set:function(a){E=a}},focusHeight:{get:function(){return H},set:function(a){H=a}},focusShowAxisX:{get:function(){return G},set:function(a){G=a}},focusShowAxisY:{get:function(){return F},set:function(a){F=a}},legendLeftAxisHint:{get:function(){return O},set:function(a){O=a}},legendRightAxisHint:{get:function(){return P},set:function(a){P=a}},tooltips:{get:function(){return v.enabled()},set:function(b){a.deprecated("tooltips","use chart.tooltip.enabled() in
+  6: ⟪ 3930 characters skipped ⟫alue:b.y()(a.data),color:a.color},j.data(a).hidden(!1)}),e.dispatch.on("elementMouseout.tooltip",function(){j.hidden(!0)}),e.dispatch.on("elementMousemove.tooltip",function(){j.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.dispatch=A,b.multibar=e,b.legend=h,b.controls=i,b.xAxis=f,b.yAxis=g,b.state=x,b.tooltip=j,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{width:{get:function(){return l},set:function(a){l=a}},height:{get:function(){return m},set:function(a){m=a}},showLegend:{get:function(){return q},set:function(a){q=a}},showControls:{get:function(){return o},set:function(a){o=a}},controlLabels:{get:function(){return p},set:function(a){p=a}},showXAxis:{get:function(){return r},set:function(a){r=a}},showYAxis:{get:function(){return s},set:function(a){s=a}},defaultState:{get:function(){return y},set:function(a){y=a}},noData:{get:function(){return z},set:function(a){z=a}},reduceXTicks:{get:function(){return u},set:function(a){u=a}},rotateLabels:{get:function(){return w},set:function(a){w=a}},staggerLabels:{get:function(){return v},set:function(a){v=a}},tooltips:{get:function(){return j.enabled()},set:function(b){a.deprecated("tooltips","use chart.tooltip.enabled() instead"⟪ 12254 characters skipped ⟫alue:b.y()(a.data),color:a.color},j.data(a).hidden(!1)}),e.dispatch.on("elementMouseout.tooltip",function(){j.hidden(!0)}),e.dispatch.on("elementMousemove.tooltip",function(){j.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.dispatch=x,b.multibar=e,b.legend=h,b.controls=i,b.xAxis=f,b.yAxis=g,b.state=u,b.tooltip=j,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{width:{get:function(){return l},set:function(a){l=a}},height:{get:function(){return m},set:function(a){m=a}},showLegend:{get:function(){return q},set:function(a){q=a}},showControls:{get:function(){return o},set:function(a){o=a}},controlLabels:{get:function(){return p},set:function(a){p=a}},showXAxis:{get:function(){return r},set:function(a){r=a}},showYAxis:{get:function(){return s},set:function(a){s=a}},defaultState:{get:function(){return v},set:function(a){v=a}},noData:{get:function(){return w},set:function(a){w=a}},tooltips:{get:function(){return j.enabled()},set:function(b){a.deprecated("tooltips","use chart.tooltip.enabled() instead"),j.enabled(!!b)}},tooltipContent:{get:function(){return j.contentGenerator()},set:function(b){a.deprecated("tooltipContent","use chart.tooltip.contentGenerator() instead"),j.contentGe⟪ 6501 characters skipped ⟫h.on("elementMouseout.tooltip",function(){B.hidden(!0)}),u.dispatch.on("elementMouseout.tooltip",function(){B.hidden(!0)}),t.dispatch.on("elementMousemove.tooltip",function(){B.position({top:d3.event.pageY,left:d3.event.pageX})()}),u.dispatch.on("elementMousemove.tooltip",function(){B.position({top:d3.event.pageY,left:d3.event.pageX})()})}),b}var c,d,e={top:30,right:20,bottom:50,left:60},f=a.utils.defaultColor(),g=null,h=null,i=!0,j=null,k=function(a){return a.x},l=function(a){return a.y},m="monotone",n=!0,o=d3.scale.linear(),p=d3.scale.linear(),q=d3.scale.linear(),r=a.models.line().yScale(p),s=a.models.line().yScale(q),t=a.models.multiBar().stacked(!1).yScale(p),u=a.models.multiBar().stacked(!1).yScale(q),v=a.models.stackedArea().yScale(p),w=a.models.stackedArea().yScale(q),x=a.models.axis().scale(o).orient("bottom").tickPadding(5),y=a.models.axis().scale(p).orient("left"),z=a.models.axis().scale(q).orient("right"),A=a.models.legend().height(30),B=a.models.tooltip(),C=d3.dispatch();return b.dispatch=C,b.lines1=r,b.lines2=s,b.bars1=t,b.bars2=u,b.stack1=v,b.stack2=w,b.xAxis=x,b.yAxis1=y,b.yAxis2=z,b.tooltip=B,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{width:{get:function(){return g},set:function(a){g=a}},height:{get:function(){return h},set:function(a){h=a}},showLegend:{get:function(){
+  7: ⟪ 15038 characters skipped ⟫alue:b.y()(a.data),color:a.color},e.data(a).hidden(!1)}),c.dispatch.on("elementMouseout.tooltip",function(){e.hidden(!0)}),c.dispatch.on("elementMousemove.tooltip",function(){e.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.legend=d,b.dispatch=p,b.pie=c,b.tooltip=e,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{noData:{get:function(){return n},set:function(a){n=a}},showLegend:{get:function(){return i},set:function(a){i=a}},legendPosition:{get:function(){return j},set:function(a){j=a}},defaultState:{get:function(){return m},set:function(a){m=a}},tooltips:{get:function(){return e.enabled()},set:function(b){a.deprecated("tooltips","use chart.tooltip.enabled() instead"),e.enabled(!!b)}},tooltipContent:{get:function(){return e.contentGenerator()},set:function(b){a.deprecated("tooltipContent","use chart.tooltip.contentGenerator() instead"),e.contentGenerator(b)}},color:{get:function(){return k},set:function(a){k=a,d.color(k),c.color(k)}},duration:{get:function(){return o},set:function(a){o=a,q.reset(o)}},margin:{get:function(){return f},set:function(a){f.top=void 0!==a.top?a.top:f.top,f.right=void 0!==a.right?a.right:f.right,f.bottom=void 0!==a.bottom?a.bottom:f.bottom,f.left=v⟪ 1580 characters skipped ⟫ a[1]}).attr("r",D));var k=function(a,c){if(O)return 0;var d=b[a.series];if(void 0!==d){var e=d.values[a.point];e.color=j(d,a.series),e.x=p(e),e.y=q(e);var f=l.node().getBoundingClientRect(),h=window.pageYOffset||document.documentElement.scrollTop,i=window.pageXOffset||document.documentElement.scrollLeft,k={left:m(p(e,a.point))+f.left+i+g.left+10,top:n(q(e,a.point))+f.top+h+g.top+10};c({point:e,series:d,pos:k,seriesIndex:a.series,pointIndex:a.point})}};e.on("click",function(a){k(a,L.elementClick)}).on("dblclick",function(a){k(a,L.elementDblClick)}).on("mouseover",function(a){k(a,L.elementMouseover)}).on("mouseout",function(a){k(a,L.elementMouseout)})}else U.select(".nv-groups").selectAll(".nv-group").selectAll(".nv-point").on("click",function(a,c){if(O||!b[a.series])return 0;var d=b[a.series],e=d.values[c];L.elementClick({point:e,series:d,pos:[m(p(e,c))+g.left,n(q(e,c))+g.top],seriesIndex:a.series,pointIndex:c})}).on("dblclick",function(a,c){if(O||!b[a.series])return 0;var d=b[a.series],e=d.values[c];L.elementDblClick({point:e,series:d,pos:[m(p(e,c))+g.left,n(q(e,c))+g.top],seriesIndex:a.series,pointIndex:c})}).on("mouseover",function(a,c){if(O||!b[a.series])return 0;var d=b[a.series],e=d.values[c];L.elementMouseover({point:e,series:d,po
+  8: ⟪ 8697 characters skipped ⟫return"nv-area nv-area-"+b}).attr("d",function(a){return F(a.values,a.seriesIndex)}).on("mouseover",function(a){d3.select(this).classed("hover",!0),t.areaMouseover({point:a,series:a.key,pos:[d3.event.pageX,d3.event.pageY],seriesIndex:a.seriesIndex})}).on("mouseout",function(a){d3.select(this).classed("hover",!1),t.areaMouseout({point:a,series:a.key,pos:[d3.event.pageX,d3.event.pageY],seriesIndex:a.seriesIndex})}).on("click",function(a){d3.select(this).classed("hover",!1),t.areaClick({point:a,series:a.key,pos:[d3.event.pageX,d3.event.pageY],seriesIndex:a.seriesIndex})}),G.exit().remove(),G.style("fill",function(a){return a.color||h(a,a.seriesIndex)}).style("stroke",function(a){return a.color||h(a,a.seriesIndex)}),G.watchTransition(u,"stackedArea path").attr("d",function(a,b){return E(a.values,b)}),r.dispatch.on("elementMouseover.area",function(a){C.select(".nv-chart-"+i+" .nv-area-"+a.seriesIndex).classed("hover",!0)}),r.dispatch.on("elementMouseout.area",function(a){C.select(".nv-chart-"+i+" .nv-area-"+a.seriesIndex).classed("hover",!1)}),b.d3_stackedOffset_stackPercent=function(a){var b,c,d,e=a.length,f=a[0].length,g=[];for(c=0;f>c;++c){for(b=0,d=0;b<w.length;b++)d+=l(w[b].values[c]);if(d)for(b=0;e>b;b++)a[b][c][1]/=d;else for(b=0;e>b;b++)a[b][c][1]=0}for(c=0;f>c;++c)g[c]=0;return g}}),u.renderEnd("stackedArea immediate"),b}var c,d,e={top:0,right:0,bottom:0,left:0},f=960,g=500,h=a.utils.defaultColor(),i=Math.floor(1e5*Math.random()),j=null,k=function(a){return a.x},l=function(a){return a.y},m="stack",n="zero",o="⟪ 14154 characters skipped ⟫,value:a.data.size,color:a.color},d.data(a).hidden(!1)}),c.dispatch.on("elementMouseout.tooltip",function(){d.hidden(!0)}),c.dispatch.on("elementMousemove.tooltip",function(){d.position({top:d3.event.pageY,left:d3.event.pageX})()}),b.dispatch=l,b.sunburst=c,b.tooltip=d,b.options=a.utils.optionsFunc.bind(b),b._options=Object.create({},{noData:{get:function(){return j},set:function(a){j=a}},defaultState:{get:function(){return i},set:function(a){i=a}},color:{get:function(){return h},set:function(a){h=a,c.color(h)}},duration:{get:function(){return k},set:function(a){k=a,m.reset(k),c.duration(k)}},margin:{get:function(){return e},set:function(a){e.top=void 0!==a.top?a.top:e.top,e.right=void 0!==a.right?a.right:e.right,e.bottom=void 0!==a.bottom?a.bottom:e.bottom,e.left=void 0!==a.left?a.left:e.left}}}),a.utils.inheritOptions(b,c),a.utils.initOptions(b),b},a.version="1.8.1"}();
+
+vendor/phpunit/php-file-iterator/composer.json:
+  8      ],
+  9:     "homepage": "https://github.com/sebastianbergmann/php-file-iterator/",
+  10      "license": "BSD-3-Clause",
+
+vendor/phpunit/php-invoker/composer.json:
+  7      ],
+  8:     "homepage": "https://github.com/sebastianbergmann/php-invoker/",
+  9      "license": "BSD-3-Clause",
+
+vendor/phpunit/php-text-template/composer.json:
+  7      ],
+  8:     "homepage": "https://github.com/sebastianbergmann/php-text-template/",
+  9      "license": "BSD-3-Clause",
+
+vendor/phpunit/php-timer/composer.json:
+  7      ],
+  8:     "homepage": "https://github.com/sebastianbergmann/php-timer/",
+  9      "license": "BSD-3-Clause",
+
+vendor/phpunit/phpunit/composer.json:
+   9      ],
+  10:     "homepage": "https://phpunit.de/",
+  11      "license": "BSD-3-Clause",
+
+vendor/phpunit/phpunit/composer.lock:
+    49                      "email": "ocramius@gmail.com",
+    50:                     "homepage": "https://ocramius.github.io/"
+    51                  }
+
+    53              "description": "A small, lightweight utility to instantiate objects in PHP without invoking their constructors",
+    54:             "homepage": "https://www.doctrine-project.org/projects/instantiator.html",
+    55              "keywords": [
+
+   363              "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+   364:             "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
+   365              "keywords": [
+
+   425              "description": "FilterIterator implementation that filters files based on a list of suffixes.",
+   426:             "homepage": "https://github.com/sebastianbergmann/php-file-iterator/",
+   427              "keywords": [
+
+   489              "description": "Invoke callables with a timeout",
+   490:             "homepage": "https://github.com/sebastianbergmann/php-invoker/",
+   491              "keywords": [
+
+   548              "description": "Simple template engine.",
+   549:             "homepage": "https://github.com/sebastianbergmann/php-text-template/",
+   550              "keywords": [
+
+   607              "description": "Utility class for timing",
+   608:             "homepage": "https://github.com/sebastianbergmann/php-timer/",
+   609              "keywords": [
+
+   666              "description": "Library for parsing CLI options",
+   667:             "homepage": "https://github.com/sebastianbergmann/cli-parser",
+   668              "support": {
+
+   722              "description": "Collection of value objects that represent the PHP code units",
+   723:             "homepage": "https://github.com/sebastianbergmann/code-unit",
+   724              "support": {
+
+   777              "description": "Looks up which function or method a line of code belongs to",
+   778:             "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+   779              "support": {
+
+   846              "description": "Provides the functionality to compare PHP values for equality",
+   847:             "homepage": "https://github.com/sebastianbergmann/comparator",
+   848              "keywords": [
+
+   908              "description": "Library for calculating the complexity of PHP code units",
+   909:             "homepage": "https://github.com/sebastianbergmann/complexity",
+   910              "support": {
+
+   968              "description": "Diff implementation",
+   969:             "homepage": "https://github.com/sebastianbergmann/diff",
+   970              "keywords": [
+
+  1032              "description": "Provides functionality to handle HHVM/PHP environments",
+  1033:             "homepage": "http://www.github.com/sebastianbergmann/environment",
+  1034              "keywords": [
+
+  1110              "description": "Provides the functionality to export PHP variables for visualization",
+  1111:             "homepage": "https://www.github.com/sebastianbergmann/exporter",
+  1112              "keywords": [
+
+  1175              "description": "Snapshotting of global state",
+  1176:             "homepage": "http://www.github.com/sebastianbergmann/global-state",
+  1177              "keywords": [
+
+  1235              "description": "Library for counting the lines of code in PHP source code",
+  1236:             "homepage": "https://github.com/sebastianbergmann/lines-of-code",
+  1237              "support": {
+
+  1292              "description": "Traverses array structures and object graphs to enumerate all referenced objects",
+  1293:             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+  1294              "support": {
+
+  1347              "description": "Allows reflection of object attributes, including inherited and non-public ones",
+  1348:             "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+  1349              "support": {
+
+  1410              "description": "Provides functionality to recursively process PHP variables",
+  1411:             "homepage": "https://github.com/sebastianbergmann/recursion-context",
+  1412              "support": {
+
+  1465              "description": "Provides a list of PHP built-in functions that operate on resources",
+  1466:             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+  1467              "support": {
+
+  1521              "description": "Collection of value objects that represent the types of the PHP type system",
+  1522:             "homepage": "https://github.com/sebastianbergmann/type",
+  1523              "support": {
+
+  1574              "description": "Library that helps with managing the version number of Git-hosted PHP projects",
+  1575:             "homepage": "https://github.com/sebastianbergmann/version",
+  1576              "support": {
+
+vendor/phpunit/phpunit/src/Util/TestDox/HtmlResultPrinter.php:
+   22       */
+   23:     private const PAGE_HEADER = <<<'EOT'
+   24  <!doctype html>
+
+   98       */
+   99:     private const PAGE_FOOTER = <<<'EOT'
+  100  
+
+  113      {
+  114:         $this->write(self::PAGE_HEADER);
+  115      }
+
+  156      {
+  157:         $this->write(self::PAGE_FOOTER);
+  158      }
+
+vendor/psr/container/composer.json:
+   5      "keywords": ["psr", "psr-11", "container", "container-interop", "container-interface"],
+   6:     "homepage": "https://github.com/php-fig/container",
+   7      "license": "MIT",
+
+  10              "name": "PHP-FIG",
+  11:             "homepage": "https://www.php-fig.org/"
+  12          }
+
+vendor/psr/event-dispatcher/composer.json:
+   9              "name": "PHP-FIG",
+  10:             "homepage": "http://www.php-fig.org/"
+  11          }
+
+vendor/psr/http-client/composer.json:
+   4      "keywords": ["psr", "psr-18", "http", "http-client"],
+   5:     "homepage": "https://github.com/php-fig/http-client",
+   6      "license": "MIT",
+
+   9              "name": "PHP-FIG",
+  10:             "homepage": "https://www.php-fig.org/"
+  11          }
+
+vendor/psr/http-factory/composer.json:
+  17              "name": "PHP-FIG",
+  18:             "homepage": "https://www.php-fig.org/"
+  19          }
+
+vendor/psr/http-message/composer.json:
+   4      "keywords": ["psr", "psr-7", "http", "http-message", "request", "response"],
+   5:     "homepage": "https://github.com/php-fig/http-message",
+   6      "license": "MIT",
+
+   9              "name": "PHP-FIG",
+  10:             "homepage": "https://www.php-fig.org/"
+  11          }
+
+vendor/psr/log/composer.json:
+   4      "keywords": ["psr", "psr-3", "log"],
+   5:     "homepage": "https://github.com/php-fig/log",
+   6      "license": "MIT",
+
+   9              "name": "PHP-FIG",
+  10:             "homepage": "https://www.php-fig.org/"
+  11          }
+
+vendor/sebastian/cli-parser/composer.json:
+  4      "type": "library",
+  5:     "homepage": "https://github.com/sebastianbergmann/cli-parser",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/code-unit/composer.json:
+  4      "type": "library",
+  5:     "homepage": "https://github.com/sebastianbergmann/code-unit",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/code-unit-reverse-lookup/composer.json:
+  3      "description": "Looks up which function or method a line of code belongs to",
+  4:     "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+  5      "license": "BSD-3-Clause",
+
+vendor/sebastian/comparator/composer.json:
+  4      "keywords": ["comparator","compare","equality"],
+  5:     "homepage": "https://github.com/sebastianbergmann/comparator",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/complexity/composer.json:
+  4      "type": "library",
+  5:     "homepage": "https://github.com/sebastianbergmann/complexity",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/diff/composer.json:
+  4      "keywords": ["diff", "udiff", "unidiff", "unified diff"],
+  5:     "homepage": "https://github.com/sebastianbergmann/diff",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/environment/composer.json:
+  4      "keywords": ["environment","hhvm","xdebug"],
+  5:     "homepage": "http://www.github.com/sebastianbergmann/environment",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/exporter/composer.json:
+  4      "keywords": ["exporter","export"],
+  5:     "homepage": "https://www.github.com/sebastianbergmann/exporter",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/global-state/composer.json:
+  4      "keywords": ["global state"],
+  5:     "homepage": "http://www.github.com/sebastianbergmann/global-state",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/lines-of-code/composer.json:
+  4      "type": "library",
+  5:     "homepage": "https://github.com/sebastianbergmann/lines-of-code",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/object-enumerator/composer.json:
+  3      "description": "Traverses array structures and object graphs to enumerate all referenced objects",
+  4:     "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+  5      "license": "BSD-3-Clause",
+
+vendor/sebastian/object-reflector/composer.json:
+  3      "description": "Allows reflection of object attributes, including inherited and non-public ones",
+  4:     "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+  5      "license": "BSD-3-Clause",
+
+vendor/sebastian/recursion-context/composer.json:
+  3      "description": "Provides functionality to recursively process PHP variables",
+  4:     "homepage": "https://github.com/sebastianbergmann/recursion-context",
+  5      "license": "BSD-3-Clause",
+
+vendor/sebastian/resource-operations/composer.json:
+  3      "description": "Provides a list of PHP built-in functions that operate on resources",
+  4:     "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+  5      "license": "BSD-3-Clause",
+
+vendor/sebastian/resource-operations/src/ResourceOperations.php:
+    55              'PDF_begin_layer',
+    56:             'PDF_begin_page',
+    57:             'PDF_begin_page_ext',
+    58              'PDF_begin_pattern',
+
+    65              'PDF_close_pdi',
+    66:             'PDF_close_pdi_page',
+    67              'PDF_closepath',
+
+    92              'PDF_end_layer',
+    93:             'PDF_end_page',
+    94:             'PDF_end_page_ext',
+    95              'PDF_end_pattern',
+
+   104              'PDF_fit_image',
+   105:             'PDF_fit_pdi_page',
+   106              'PDF_fit_table',
+
+   137              'PDF_open_pdi_document',
+   138:             'PDF_open_pdi_page',
+   139              'PDF_pcos_get_number',
+
+   142              'PDF_place_image',
+   143:             'PDF_place_pdi_page',
+   144              'PDF_process_pdi',
+
+   146              'PDF_restore',
+   147:             'PDF_resume_page',
+   148              'PDF_rotate',
+
+   184              'PDF_stroke',
+   185:             'PDF_suspend_page',
+   186              'PDF_translate',
+
+  1186              'ldap_compare',
+  1187:             'ldap_control_paged_result',
+  1188:             'ldap_control_paged_result_response',
+  1189              'ldap_count_entries',
+
+  1785              'ps_arcn',
+  1786:             'ps_begin_page',
+  1787              'ps_begin_pattern',
+
+  1797              'ps_delete',
+  1798:             'ps_end_page',
+  1799              'ps_end_pattern',
+
+vendor/sebastian/type/composer.json:
+  4      "type": "library",
+  5:     "homepage": "https://github.com/sebastianbergmann/type",
+  6      "license": "BSD-3-Clause",
+
+vendor/sebastian/version/composer.json:
+  3      "description": "Library that helps with managing the version number of Git-hosted PHP projects",
+  4:     "homepage": "https://github.com/sebastianbergmann/version",
+  5      "license": "BSD-3-Clause",
+
+vendor/squizlabs/php_codesniffer/composer.json:
+  21              "name": "Contributors",
+  22:             "homepage": "https://github.com/PHPCSStandards/PHP_CodeSniffer/graphs/contributors"
+  23          }
+  24      ],
+  25:     "homepage": "https://github.com/PHPCSStandards/PHP_CodeSniffer",
+  26      "support": {
+
+vendor/squizlabs/php_codesniffer/README.md:
+   26  
+   27: PHP_CodeSniffer requires PHP version 5.4.0 or greater, although individual sniffs may have additional requirements such as external applications and scripts. See the [Configuration Options manual page](https://github.com/PHPCSStandards/PHP_CodeSniffer/wiki/Configuration-Options) for a list of these requirements.
+   28  
+
+  109  
+  110: Full usage information and example reports are available on the [usage page](https://github.com/PHPCSStandards/PHP_CodeSniffer/wiki/Usage).
+  111  
+
+vendor/squizlabs/php_codesniffer/src/Generators/HTML.php:
+   51      /**
+   52:      * Print the header of the HTML page.
+   53       *
+
+  137       *
+  138:      * The TOC is just an unordered list of bookmarks to sniffs on the page.
+  139       *
+
+  160      /**
+  161:      * Print the footer of the HTML page.
+  162       *
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/ControlStructures/InlineControlStructureUnitTest.1.inc:
+  77  <div style="text-align: right;">
+  78:     <?php if ($model->scenario == 'simple') $widget->renderPager() ?>
+  79  </div>
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/ControlStructures/InlineControlStructureUnitTest.1.inc.fixed:
+  89  <div style="text-align: right;">
+  90:     <?php if ($model->scenario == 'simple') { $widget->renderPager(); } ?>
+  91  </div>
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/WhiteSpace/ScopeIndentUnitTest.1.inc:
+   560  ?>
+   561: <title><?= CHtml::encode($this->pageTitle); ?></title>
+   562  
+
+  1062  self::validate_context($framework->get_context());
+  1063: $output = $PAGE->get_renderer('tool_lp');
+  1064  
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/WhiteSpace/ScopeIndentUnitTest.1.inc.fixed:
+   560  ?>
+   561: <title><?= CHtml::encode($this->pageTitle); ?></title>
+   562  
+
+  1062  self::validate_context($framework->get_context());
+  1063: $output = $PAGE->get_renderer('tool_lp');
+  1064  
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/WhiteSpace/ScopeIndentUnitTest.1.js:
+  51  this.init = function(data) {
+  52:     if (_pageListWdgt) {
+  53:         GUI.getWidget('changedPagesList').addItemClickedCallback(
+  54              function(itemid, target) {
+
+  59                      reviewData: _reviewData,
+  60:                     pageid: itemid
+  61                      }
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/WhiteSpace/ScopeIndentUnitTest.1.js.fixed:
+  51  this.init = function(data) {
+  52:     if (_pageListWdgt) {
+  53:         GUI.getWidget('changedPagesList').addItemClickedCallback(
+  54              function(itemid, target) {
+
+  59                          reviewData: _reviewData,
+  60:                         pageid: itemid
+  61                      }
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/WhiteSpace/ScopeIndentUnitTest.2.inc:
+   560  ?>
+   561: <title><?= CHtml::encode($this->pageTitle); ?></title>
+   562  
+
+  1062  self::validate_context($framework->get_context());
+  1063: $output = $PAGE->get_renderer('tool_lp');
+  1064  
+
+vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/WhiteSpace/ScopeIndentUnitTest.2.inc.fixed:
+   560  ?>
+   561: <title><?= CHtml::encode($this->pageTitle); ?></title>
+   562  
+
+  1062  self::validate_context($framework->get_context());
+  1063: $output = $PAGE->get_renderer('tool_lp');
+  1064  
+
+vendor/squizlabs/php_codesniffer/src/Standards/MySource/Tests/Channels/IncludeSystemUnitTest.inc:
+   2  Channels::includeSystem('MySystem');
+   3: Channels::includeAsset('Page');
+   4  require_once 'libs/FileSystem2.inc';
+
+   8      $siteid = MySystem2::getCurrentSiteId();
+   9:     Page::create();
+  10:     PageAssetType::create();
+  11  }
+
+  27  $parserFiles = FileSystem::listDirectory();
+  28: Page::create();
+  29: PageAssetType::create();
+  30  
+
+  35          $siteid = MySystem2::getCurrentSiteId();
+  36:         Page::create();
+  37:         PageAssetType::create();
+  38      }
+
+vendor/squizlabs/php_codesniffer/src/Standards/MySource/Tests/Channels/UnusedSystemUnitTest.inc:
+   2  Channels::includeSystem('OurSystem');
+   3: Channels::includeSystem('Page');
+   4: Channels::includeAsset('Page2');
+   5  Channels::includeAsset('Folder');
+
+   9      $siteid = MySystem2::getCurrentSiteId();
+  10:     Page::create();
+  11:     PageAssetType::create();
+  12  }
+
+  14  function two() {
+  15:     Page2AssetType::create();
+  16      Folder::getFolder();
+
+  23          Channels::includeSystem('MySystem2');
+  24:         Channels::includeSystem('Page2');
+  25          $siteid = MySystem2::getCurrentSiteId();
+
+  28      function two() {
+  29:         $siteid = Page2::getCurrentSiteId();
+  30      }
+
+vendor/squizlabs/php_codesniffer/src/Standards/PEAR/Tests/Functions/FunctionCallSignatureUnitTest.inc:
+  258      <?php getTemplatePart(
+  259:         'partials/web-page/carousel-slick/item-slide/header',
+  260          [
+
+vendor/squizlabs/php_codesniffer/src/Standards/PEAR/Tests/Functions/FunctionCallSignatureUnitTest.inc.fixed:
+  263      <?php getTemplatePart(
+  264:         'partials/web-page/carousel-slick/item-slide/header',
+  265          [
+
+vendor/squizlabs/php_codesniffer/src/Standards/PEAR/Tests/Functions/FunctionCallSignatureUnitTest.js:
+  40                  reviewData: _reviewData,
+  41:                 pageid: itemid
+  42              },
+
+vendor/squizlabs/php_codesniffer/src/Standards/PEAR/Tests/Functions/FunctionCallSignatureUnitTest.js.fixed:
+  41                  reviewData: _reviewData,
+  42:                 pageid: itemid
+  43              },
+
+vendor/squizlabs/php_codesniffer/src/Standards/PSR12/Tests/Files/FileHeaderUnitTest.14.inc:
+  1  <?php if (array_key_exists('user', $_SESSION)) : ?>
+  2:     <li><a href="/user/update.php">My page</a></li>
+  3      <li><a href="/post/write.php">Write</a></li>
+
+vendor/squizlabs/php_codesniffer/src/Standards/PSR2/Tests/ControlStructures/ControlStructureSpacingUnitTest.inc:
+  18  
+  19: if ($defaultPageDesign === 0
+  20      && $defaultCascade === TRUE
+
+  31  if (
+  32:     $defaultPageDesign === 0
+  33      && $defaultCascade === TRUE
+
+vendor/squizlabs/php_codesniffer/src/Standards/PSR2/Tests/ControlStructures/ControlStructureSpacingUnitTest.inc.fixed:
+  18  
+  19: if ($defaultPageDesign === 0
+  20      && $defaultCascade === TRUE
+
+  30  
+  31: if ($defaultPageDesign === 0
+  32      && $defaultCascade === TRUE
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/Formatting/OperatorBracketUnitTest.inc:
+  144  
+  145: $cntPages = ceil(count($items) / self::ON_PAGE);
+  146  
+
+  202  
+  203: $cntPages = ceil(count($items) / parent::ON_PAGE);
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/Formatting/OperatorBracketUnitTest.inc.fixed:
+  144  
+  145: $cntPages = ceil(count($items) / self::ON_PAGE);
+  146  
+
+  202  
+  203: $cntPages = ceil(count($items) / parent::ON_PAGE);
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/EmbeddedPhpUnitTest.1.inc:
+  93  
+  94:     ?><a onClick="Javascript: set_hidden_field('<?php echo $link_offset - $num_per_page; ?>'); set_hidden_field('process_form', '0'); submit_form(); return false;"><?php
+  95  
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/EmbeddedPhpUnitTest.1.inc.fixed:
+  90      ?>
+  91:     <a onClick="Javascript: set_hidden_field('<?php echo $link_offset - $num_per_page; ?>'); set_hidden_field('process_form', '0'); submit_form(); return false;">
+  92      <?php
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/EmbeddedPhpUnitTest.3.inc:
+  50  
+  51:     <a onClick="Javascript: set_hidden_field('<?= $link_offset - $num_per_page; ?>'); set_hidden_field('process_form', '0'); submit_form(); return false;">
+  52  
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/EmbeddedPhpUnitTest.3.inc.fixed:
+  48  
+  49:     <a onClick="Javascript: set_hidden_field('<?= $link_offset - $num_per_page; ?>'); set_hidden_field('process_form', '0'); submit_form(); return false;">
+  50  
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/WhiteSpace/ControlStructureSpacingUnitTest.inc:
+  105  
+  106: if ($defaultPageDesign === 0
+  107      && $defaultCascade === TRUE
+
+  118  if (
+  119:     $defaultPageDesign === 0
+  120      && $defaultCascade === TRUE
+
+vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/WhiteSpace/ControlStructureSpacingUnitTest.inc.fixed:
+  105  
+  106: if ($defaultPageDesign === 0
+  107      && $defaultCascade === TRUE
+
+  117  
+  118: if ($defaultPageDesign === 0
+  119      && $defaultCascade === TRUE
+
+vendor/symfony/config/composer.json:
+   5      "keywords": [],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/console/composer.json:
+   5      "keywords": ["console", "cli", "command-line", "terminal"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/console/Helper/QuestionHelper.php:
+  519          if (!$question->isMultiline()) {
+  520:             $cp = $this->setIOCodepage();
+  521              $ret = fgets($inputStream, 4096);
+  522  
+  523:             return $this->resetIOCodepage($cp, $ret);
+  524          }
+
+  531          $ret = '';
+  532:         $cp = $this->setIOCodepage();
+  533          while (false !== ($char = fgetc($multiLineStreamReader))) {
+
+  539  
+  540:         return $this->resetIOCodepage($cp, $ret);
+  541      }
+
+  543      /**
+  544:      * Sets console I/O to the host code page.
+  545       *
+  546:      * @return int Previous code page in IBM/EBCDIC format
+  547       */
+  548:     private function setIOCodepage(): int
+  549      {
+
+  560      /**
+  561:      * Sets console I/O to the specified code page and converts the user input.
+  562       *
+
+  566       */
+  567:     private function resetIOCodepage(int $cp, $input)
+  568      {
+
+vendor/symfony/dependency-injection/composer.json:
+   5      "keywords": [],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/deprecation-contracts/composer.json:
+   4      "description": "A generic function and convention to trigger deprecation notices",
+   5:     "homepage": "https://symfony.com",
+   6      "license": "MIT",
+
+  13              "name": "Symfony Community",
+  14:             "homepage": "https://symfony.com/contributors"
+  15          }
+
+vendor/symfony/event-dispatcher/composer.json:
+   5      "keywords": [],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/event-dispatcher-contracts/composer.json:
+   5      "keywords": ["abstractions", "contracts", "decoupling", "interfaces", "interoperability", "standards"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/filesystem/composer.json:
+   5      "keywords": [],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/finder/composer.json:
+   5      "keywords": [],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/options-resolver/composer.json:
+   5      "keywords": ["options", "config", "configuration"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/polyfill-ctype/composer.json:
+   5      "keywords": ["polyfill", "compatibility", "portable", "ctype"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/polyfill-intl-grapheme/composer.json:
+   5      "keywords": ["polyfill", "shim", "compatibility", "portable", "intl", "grapheme"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/polyfill-intl-normalizer/composer.json:
+   5      "keywords": ["polyfill", "shim", "compatibility", "portable", "intl", "normalizer"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/polyfill-mbstring/composer.json:
+   5      "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/polyfill-php73/composer.json:
+   5      "keywords": ["polyfill", "shim", "compatibility", "portable"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/polyfill-php80/composer.json:
+   5      "keywords": ["polyfill", "shim", "compatibility", "portable"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  18              "name": "Symfony Community",
+  19:             "homepage": "https://symfony.com/contributors"
+  20          }
+
+vendor/symfony/polyfill-php81/composer.json:
+   5      "keywords": ["polyfill", "shim", "compatibility", "portable"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/process/composer.json:
+   5      "keywords": [],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/service-contracts/composer.json:
+   5      "keywords": ["abstractions", "contracts", "decoupling", "interfaces", "interoperability", "standards"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/stopwatch/composer.json:
+   5      "keywords": [],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
+
+vendor/symfony/string/composer.json:
+   5      "keywords": ["string", "utf8", "utf-8", "grapheme", "i18n", "unicode"],
+   6:     "homepage": "https://symfony.com",
+   7      "license": "MIT",
+
+  14              "name": "Symfony Community",
+  15:             "homepage": "https://symfony.com/contributors"
+  16          }
