@@ -4,7 +4,7 @@ require '../bootstrap.php';
 require '../Application.php';
 // require '../vendor/autoload.php';
 $db = [
-  'hostname' => 'db',
+  'hostname' => getenv('MYSQL_HOST'),
   'username' => getenv('MYSQL_USER'),
   'password' => getenv('MYSQL_PASSWORD'),
   'database' => getenv('MYSQL_DATABASE'),
